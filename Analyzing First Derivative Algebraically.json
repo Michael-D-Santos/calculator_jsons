@@ -1,0 +1,394 @@
+[
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=x3+10x2−7x−35",
+    "Relative Maxima: x=−7\\text{Relative Maxima: }x=-7Relative Maxima: x=−7"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative minima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=43​x4−3x3−42x2+14",
+    "Relative Minima: x=−4,x=7\\text{Relative Minima: } x=-4, \\hspace{5px} x=7Relative Minima: x=−4,x=7"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is decreasing.f(x)=2x3−24x2+90x+19",
+    "f(x) decreasing: 3≤x≤5\\text{f(x) decreasing: }3\\le x \\le 5f(x) decreasing: 3≤x≤5"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative minima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=41​x4−x3−20x2−37",
+    "Relative Minima: x=−5,x=8\\text{Relative Minima: } x=-5, \\hspace{5px} x=8Relative Minima: x=−5,x=8"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=2x3+9x2−60x−27",
+    "Relative Maxima: x=−5\\text{Relative Maxima: }x=-5Relative Maxima: x=−5"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=2x3−15x2−84x−14",
+    "Relative Maxima: x=−2\\text{Relative Maxima: }x=-2Relative Maxima: x=−2"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=52​x5+x4−32x3−42",
+    "Relative Maxima: x=−8\\text{Relative Maxima: }x=-8Relative Maxima: x=−8"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative minima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=−43​x4+14x3−60x2+23",
+    "Relative Minima: x=4\\text{Relative Minima: } x=4Relative Minima: x=4"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative minima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=2x3+6x2+3",
+    "Relative Minima: x=0\\text{Relative Minima: } x=0Relative Minima: x=0"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative minima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=2x4+24x3+25",
+    "Relative Minima: x=−9\\text{Relative Minima: } x=-9Relative Minima: x=−9"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative minima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=4x3−x2−30x+2",
+    "Relative Minima: x=53\\text{Relative Minima: } x=\\frac{5}{3}Relative Minima: x=35​"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is decreasing.f(x)=4x3+13x2−10x+33",
+    "f(x) decreasing: −52≤x≤13\\text{f(x) decreasing: }-\\frac{5}{2}\\le x \\le \\frac{1}{3}f(x) decreasing: −25​≤x≤31​"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is increasing.f(x)=52​x5+x4−42x3−36",
+    "f(x) increasing: x≤−9 or x≥7\\text{$f(x)$ increasing: }x\\le -9\\hspace{20px}\\text{ or }\\hspace{20px}x\\ge 7f(x) increasing: x≤−9 or x≥7"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is increasing.f(x)=43​x4+x3−108x2+45",
+    "f(x) increasing: −9≤x≤0 or x≥8\\text{$f(x)$ increasing: }-9\\le x \\le 0\\hspace{20px}\\text{ or }\\hspace{20px}x\\ge 8f(x) increasing: −9≤x≤0 or x≥8"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is decreasing.f(x)=51​x5+4x4+20x3−31",
+    "f(x) decreasing: −10≤x≤−6\\text{f(x) decreasing: }-10\\le x \\le -6f(x) decreasing: −10≤x≤−6"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is increasing.f(x)=x4−4x3−19",
+    "f(x) increasing: x≥3\\text{$f(x)$ increasing: }x\\ge 3f(x) increasing: x≥3"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=3x3+45x2+81x+11",
+    "Relative Maxima: x=−9\\text{Relative Maxima: }x=-9Relative Maxima: x=−9"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=x3+18x2+96x+32",
+    "Relative Maxima: x=−8\\text{Relative Maxima: }x=-8Relative Maxima: x=−8"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=−2x4−2x3+28",
+    "Relative Maxima: x=−34\\text{Relative Maxima: }x=-\\frac{3}{4}Relative Maxima: x=−43​"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative minima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=43​x4−2x3−120x2+22",
+    "Relative Minima: x=−8,x=10\\text{Relative Minima: } x=-8, \\hspace{5px} x=10Relative Minima: x=−8,x=10"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is increasing.f(x)=−2x3−24x2+54x−19",
+    "f(x) increasing: −9≤x≤1\\text{$f(x)$ increasing: }-9\\le x \\le 1f(x) increasing: −9≤x≤1"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative minima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=−38​x3+9x2−4x+19",
+    "Relative Minima: x=14\\text{Relative Minima: } x=\\frac{1}{4}Relative Minima: x=41​"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is decreasing.f(x)=5x4−4x3−23",
+    "f(x) decreasing: x≤35\\text{f(x) decreasing: }x\\le \\frac{3}{5}f(x) decreasing: x≤53​"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is decreasing.f(x)=−3x3+18x2+45x+19",
+    "f(x) decreasing: x≤−1 or x≥5\\text{f(x) decreasing: }x\\le -1\\hspace{20px}\\text{ or }\\hspace{20px}x\\ge 5f(x) decreasing: x≤−1 or x≥5"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is decreasing.f(x)=−2x4−8x3−9",
+    "f(x) decreasing: x≥−3\\text{f(x) decreasing: }x\\ge -3f(x) decreasing: x≥−3"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=−34​x3−2x2+15x+44",
+    "Relative Maxima: x=32\\text{Relative Maxima: }x=\\frac{3}{2}Relative Maxima: x=23​"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=−2x4−8x3−17",
+    "Relative Maxima: x=−3\\text{Relative Maxima: }x=-3Relative Maxima: x=−3"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=2x3+3x2−72x+10",
+    "Relative Maxima: x=−4\\text{Relative Maxima: }x=-4Relative Maxima: x=−4"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=43​x4−2x3−72x2−38",
+    "Relative Maxima: x=0\\text{Relative Maxima: }x=0Relative Maxima: x=0"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is increasing.f(x)=x3+7x2+15x+45",
+    "f(x) increasing: x≤−3 or x≥−53\\text{$f(x)$ increasing: }x\\le -3\\hspace{20px}\\text{ or }\\hspace{20px}x\\ge -\\frac{5}{3}f(x) increasing: x≤−3 or x≥−35​"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is increasing.f(x)=−2x3−27x2−84x+24",
+    "f(x) increasing: −7≤x≤−2\\text{$f(x)$ increasing: }-7\\le x \\le -2f(x) increasing: −7≤x≤−2"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=x3−15x2−28",
+    "Relative Maxima: x=0\\text{Relative Maxima: }x=0Relative Maxima: x=0"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is increasing.f(x)=2x3+6x2−29",
+    "f(x) increasing: x≤−2 or x≥0\\text{$f(x)$ increasing: }x\\le -2\\hspace{20px}\\text{ or }\\hspace{20px}x\\ge 0f(x) increasing: x≤−2 or x≥0"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative minima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=x3+6x2−63x−32",
+    "Relative Minima: x=3\\text{Relative Minima: } x=3Relative Minima: x=3"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=−2x3−6x2+18x−3",
+    "Relative Maxima: x=1\\text{Relative Maxima: }x=1Relative Maxima: x=1"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative minima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=52​x5−4x4+10x3+3",
+    "Relative Minima: x=5\\text{Relative Minima: } x=5Relative Minima: x=5"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=52​x5+8x4+40x3+5",
+    "Relative Maxima: x=−10\\text{Relative Maxima: }x=-10Relative Maxima: x=−10"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is decreasing.f(x)=2x4+16x3−21",
+    "f(x) decreasing: x≤−6\\text{f(x) decreasing: }x\\le -6f(x) decreasing: x≤−6"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative minima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=−2x3+27x2+60x+1",
+    "Relative Minima: x=−1\\text{Relative Minima: } x=-1Relative Minima: x=−1"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is increasing.f(x)=−x3−39x2+81x−20",
+    "f(x) increasing: −27≤x≤1\\text{$f(x)$ increasing: }-27\\le x \\le 1f(x) increasing: −27≤x≤1"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=x3+6x2−18",
+    "Relative Maxima: x=−4\\text{Relative Maxima: }x=-4Relative Maxima: x=−4"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is decreasing.f(x)=x4−8x3−30",
+    "f(x) decreasing: x≤6\\text{f(x) decreasing: }x\\le 6f(x) decreasing: x≤6"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is increasing.f(x)=−3x3−45x2−81x+4",
+    "f(x) increasing: −9≤x≤−1\\text{$f(x)$ increasing: }-9\\le x \\le -1f(x) increasing: −9≤x≤−1"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=−x3−6x2+36x−40",
+    "Relative Maxima: x=2\\text{Relative Maxima: }x=2Relative Maxima: x=2"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is decreasing.f(x)=x4+12x3+9",
+    "f(x) decreasing: x≤−9\\text{f(x) decreasing: }x\\le -9f(x) decreasing: x≤−9"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=−43​x4−3x3+81x2−37",
+    "Relative Maxima: x=−9,x=6\\text{Relative Maxima: }x=-9, \\hspace{5px} x=6Relative Maxima: x=−9,x=6"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is increasing.f(x)=−35​x3−x2+7x+21",
+    "f(x) increasing: −75≤x≤1\\text{$f(x)$ increasing: }-\\frac{7}{5}\\le x \\le 1f(x) increasing: −57​≤x≤1"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative minima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=−43​x4−15x3−75x2+37",
+    "Relative Minima: x=−5\\text{Relative Minima: } x=-5Relative Minima: x=−5"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is increasing.f(x)=−4x3+13x2+30x−9",
+    "f(x) increasing: −56≤x≤3\\text{$f(x)$ increasing: }-\\frac{5}{6}\\le x \\le 3f(x) increasing: −65​≤x≤3"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative minima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=52​x5+7x4+30x3−33",
+    "Relative Minima: x=−5\\text{Relative Minima: } x=-5Relative Minima: x=−5"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative minima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=−x4+x3−7",
+    "Relative Minima: None\\text{Relative Minima: } \\text{None}Relative Minima: None"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative minima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=−34​x3−9x2+70x+6",
+    "Relative Minima: x=−7\\text{Relative Minima: } x=-7Relative Minima: x=−7"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is increasing.f(x)=38​x3+7x2−30x−24",
+    "f(x) increasing: x≤−3 or x≥54\\text{$f(x)$ increasing: }x\\le -3\\hspace{20px}\\text{ or }\\hspace{20px}x\\ge \\frac{5}{4}f(x) increasing: x≤−3 or x≥45​"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=−2x4−8x3+28",
+    "Relative Maxima: x=−3\\text{Relative Maxima: }x=-3Relative Maxima: x=−3"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=−43​x4+3x3+60x2+47",
+    "Relative Maxima: x=−5,x=8\\text{Relative Maxima: }x=-5, \\hspace{5px} x=8Relative Maxima: x=−5,x=8"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=−2x3+30x2−54x+33",
+    "Relative Maxima: x=9\\text{Relative Maxima: }x=9Relative Maxima: x=9"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is increasing.f(x)=−2x3+30x2−54x+41",
+    "f(x) increasing: 1≤x≤9\\text{$f(x)$ increasing: }1\\le x \\le 9f(x) increasing: 1≤x≤9"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is decreasing.f(x)=−x4−12x3+13",
+    "f(x) decreasing: x≥−9\\text{f(x) decreasing: }x\\ge -9f(x) decreasing: x≥−9"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative minima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=−x4+4x3−30",
+    "Relative Minima: None\\text{Relative Minima: } \\text{None}Relative Minima: None"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=−2x3−15x2−24x+11",
+    "Relative Maxima: x=−1\\text{Relative Maxima: }x=-1Relative Maxima: x=−1"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is decreasing.f(x)=2x3+24x2+90x−13",
+    "f(x) decreasing: −5≤x≤−3\\text{f(x) decreasing: }-5\\le x \\le -3f(x) decreasing: −5≤x≤−3"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is decreasing.f(x)=x4−12x3−19",
+    "f(x) decreasing: x≤9\\text{f(x) decreasing: }x\\le 9f(x) decreasing: x≤9"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=−x3−9x2+81x−16",
+    "Relative Maxima: x=3\\text{Relative Maxima: }x=3Relative Maxima: x=3"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative minima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=−4x3−11x2−6x+27",
+    "Relative Minima: x=−32\\text{Relative Minima: } x=-\\frac{3}{2}Relative Minima: x=−23​"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is increasing.f(x)=x4−4x3+9",
+    "f(x) increasing: x≥3\\text{$f(x)$ increasing: }x\\ge 3f(x) increasing: x≥3"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=−2x4−16x3+23",
+    "Relative Maxima: x=−6\\text{Relative Maxima: }x=-6Relative Maxima: x=−6"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is increasing.f(x)=5x4−15x3−28",
+    "f(x) increasing: x≥94\\text{$f(x)$ increasing: }x\\ge \\frac{9}{4}f(x) increasing: x≥49​"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=−4x3+14x2+8",
+    "Relative Maxima: x=73\\text{Relative Maxima: }x=\\frac{7}{3}Relative Maxima: x=37​"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative minima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=2x3−17x2−56x−25",
+    "Relative Minima: x=7\\text{Relative Minima: } x=7Relative Minima: x=7"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=53​x5+12x4+60x3+3",
+    "Relative Maxima: x=−10\\text{Relative Maxima: }x=-10Relative Maxima: x=−10"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative minima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=43​x4+2x3−72x2−2",
+    "Relative Minima: x=−8,x=6\\text{Relative Minima: } x=-8, \\hspace{5px} x=6Relative Minima: x=−8,x=6"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=−43​x4−3x3+105x2+19",
+    "Relative Maxima: x=−10,x=7\\text{Relative Maxima: }x=-10, \\hspace{5px} x=7Relative Maxima: x=−10,x=7"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=5x4−5x3+20",
+    "Relative Maxima: None\\text{Relative Maxima: }\\text{None}Relative Maxima: None"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=−2x4+8x3−20",
+    "Relative Maxima: x=3\\text{Relative Maxima: }x=3Relative Maxima: x=3"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative minima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=−2x4+16x3−5",
+    "Relative Minima: None\\text{Relative Minima: } \\text{None}Relative Minima: None"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is decreasing.f(x)=−2x3+3x2+12x+35",
+    "f(x) decreasing: x≤−1 or x≥2\\text{f(x) decreasing: }x\\le -1\\hspace{20px}\\text{ or }\\hspace{20px}x\\ge 2f(x) decreasing: x≤−1 or x≥2"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is decreasing.f(x)=−53​x5+9x4−35x3−34",
+    "f(x) decreasing: x≤5 or x≥7\\text{f(x) decreasing: }x\\le 5\\hspace{20px}\\text{ or }\\hspace{20px}x\\ge 7f(x) decreasing: x≤5 or x≥7"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is increasing.f(x)=−3x3−45x2−81x−39",
+    "f(x) increasing: −9≤x≤−1\\text{$f(x)$ increasing: }-9\\le x \\le -1f(x) increasing: −9≤x≤−1"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=5x3+25x2−5",
+    "Relative Maxima: x=−103\\text{Relative Maxima: }x=-\\frac{10}{3}Relative Maxima: x=−310​"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=−53​x5+6x4−15x3−10",
+    "Relative Maxima: x=5\\text{Relative Maxima: }x=5Relative Maxima: x=5"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is increasing.f(x)=−43​x4+7x3−15x2+48",
+    "f(x) increasing: x≤0 or 2≤x≤5\\text{$f(x)$ increasing: }x\\le 0\\hspace{20px}\\text{ or }\\hspace{20px}2\\le x \\le 5f(x) increasing: x≤0 or 2≤x≤5"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is increasing.f(x)=−51​x5+2x4−5x3−9",
+    "f(x) increasing: 3≤x≤5\\text{$f(x)$ increasing: }3\\le x \\le 5f(x) increasing: 3≤x≤5"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=5x4−5x3−28",
+    "Relative Maxima: None\\text{Relative Maxima: }\\text{None}Relative Maxima: None"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is increasing.f(x)=−52​x5−x4+42x3+24",
+    "f(x) increasing: −9≤x≤7\\text{$f(x)$ increasing: }-9\\le x \\le 7f(x) increasing: −9≤x≤7"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is increasing.f(x)=x4−6x3−14",
+    "f(x) increasing: x≥92\\text{$f(x)$ increasing: }x\\ge \\frac{9}{2}f(x) increasing: x≥29​"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=2x3−3x2−36x+38",
+    "Relative Maxima: x=−2\\text{Relative Maxima: }x=-2Relative Maxima: x=−2"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is increasing.f(x)=−52​x5−8x4−40x3+7",
+    "f(x) increasing: −10≤x≤−6\\text{$f(x)$ increasing: }-10\\le x \\le -6f(x) increasing: −10≤x≤−6"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative minima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=43​x4+14x3+60x2+39",
+    "Relative Minima: x=−10,x=0\\text{Relative Minima: } x=-10, \\hspace{5px} x=0Relative Minima: x=−10,x=0"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative minima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=34​x3+13x2+12x+28",
+    "Relative Minima: x=−12\\text{Relative Minima: } x=-\\frac{1}{2}Relative Minima: x=−21​"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative minima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=52​x5−8x4+40x3−42",
+    "Relative Minima: x=10\\text{Relative Minima: } x=10Relative Minima: x=10"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is increasing.f(x)=−2x4+4x3−2",
+    "f(x) increasing: x≤32\\text{$f(x)$ increasing: }x\\le \\frac{3}{2}f(x) increasing: x≤23​"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative minima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=21​x4+2x3−70x2−35",
+    "Relative Minima: x=−10,x=7\\text{Relative Minima: } x=-10, \\hspace{5px} x=7Relative Minima: x=−10,x=7"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is decreasing.f(x)=53​x5+9x4+35x3+50",
+    "f(x) decreasing: −7≤x≤−5\\text{f(x) decreasing: }-7\\le x \\le -5f(x) decreasing: −7≤x≤−5"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is increasing.f(x)=3x4+x3+14",
+    "f(x) increasing: x≥−14\\text{$f(x)$ increasing: }x\\ge -\\frac{1}{4}f(x) increasing: x≥−41​"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative maxima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=−53​x5+9x4−35x3+6",
+    "Relative Maxima: x=7\\text{Relative Maxima: }x=7Relative Maxima: x=7"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is decreasing.f(x)=−43​x4+14x3−60x2−39",
+    "f(x) decreasing: 0≤x≤4 or x≥10\\text{f(x) decreasing: }0\\le x \\le 4\\hspace{20px}\\text{ or }\\hspace{20px}x\\ge 10f(x) decreasing: 0≤x≤4 or x≥10"
+  ],
+  [
+    "Find all intervals on which f, left bracket, x, right bracketf(x)f(x)f(x) is increasing.f(x)=−2x4−16x3+7",
+    "f(x) increasing: x≤−6\\text{$f(x)$ increasing: }x\\le -6f(x) increasing: x≤−6"
+  ],
+  [
+    "Find the x, minusx−x-x−coordinates of all relative minima of f, left bracket, x, right bracket, .f(x).f(x).f(x).f(x)=x4+12x3+27",
+    "Relative Minima: x=−9\\text{Relative Minima: } x=-9Relative Minima: x=−9"
+  ]
+]
