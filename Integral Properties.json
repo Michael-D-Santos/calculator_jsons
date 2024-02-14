@@ -1,0 +1,406 @@
+[
+  [
+    "Let ffff be a continuous function such that integral, from, 9, to, minus, 2, of, f,  of, x, d, x, equals, minus, 6∫9−2f(x) dx=−6\\displaystyle \\int_{9}^{-2}f(x)\\,dx =-6∫9−2​f(x)dx=−6 and integral, from, 9, to, 10, of, f,  of, x, d, x, equals, 5, .∫910f(x) dx=5.\\displaystyle \\int_{9}^{10}f(x)\\,dx =5. ∫910​f(x)dx=5. What is the value of integral, from, minus, 2, to, 10, of, f,  of, x, d, x, question mark∫−210f(x) dx?∣\\displaystyle \\int_{-2}^{10}f(x)\\,dx ?\\phantom{\\Bigg|}∫−210​f(x)dx?​",
+    "Final answer: 1\\text{Final answer: }1Final answer: 1"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 2, to, 1, of, f,  of, x, d, x, equals, 5∫−21f(x) dx=5\\displaystyle \\int_{-2}^{1}f(x)\\,dx =5∫−21​f(x)dx=5 and integral, from, minus, 2, to, minus, 1, of, f,  of, x, d, x, equals, 7, .∫−2−1f(x) dx=7.\\displaystyle \\int_{-2}^{-1}f(x)\\,dx =7. ∫−2−1​f(x)dx=7. What is the value of integral, from, 1, to, minus, 1, of, left bracket, f,  of, x, plus, 3, right bracket, d, x, question mark∫1−1(f(x)+3) dx?∣\\displaystyle \\int_{1}^{-1}\\big(f(x)+3\\big)\\,dx ?\\phantom{\\Bigg|}∫1−1​(f(x)+3)dx?​",
+    "−4-4−4"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 10, to, 3, of, f,  of, x, d, x, equals, 13∫−103f(x) dx=13\\displaystyle \\int_{-10}^{3}f(x)\\,dx =13∫−103​f(x)dx=13 and integral, from, minus, 10, to, minus, 1, of, f,  of, x, d, x, equals, 8, .∫−10−1f(x) dx=8.\\displaystyle \\int_{-10}^{-1}f(x)\\,dx =8. ∫−10−1​f(x)dx=8. What is the value of integral, from, minus, 1, to, 3, of, f,  of, x, d, x, question mark∫−13f(x) dx?∣\\displaystyle \\int_{-1}^{3}f(x)\\,dx ?\\phantom{\\Bigg|}∫−13​f(x)dx?​",
+    "Final answer: 5\\text{Final answer: }5Final answer: 5"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 3, to, 3, of, f,  of, x, d, x, equals, 5∫−33f(x) dx=5\\displaystyle \\int_{-3}^{3}f(x)\\,dx =5∫−33​f(x)dx=5 and integral, from, minus, 6, to, 3, of, f,  of, x, d, x, equals, minus, 2, .∫−63f(x) dx=−2.\\displaystyle \\int_{-6}^{3}f(x)\\,dx =-2. ∫−63​f(x)dx=−2. What is the value of integral, from, minus, 6, to, minus, 3, of, left bracket, f,  of, x, minus, 2, right bracket, d, x, question mark∫−6−3(f(x)−2) dx?∣\\displaystyle \\int_{-6}^{-3}\\big(f(x)-2\\big)\\,dx ?\\phantom{\\Bigg|}∫−6−3​(f(x)−2)dx?​",
+    "−13-13−13"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 3, to, 3, of, f,  of, x, d, x, equals, 5∫−33f(x) dx=5\\displaystyle \\int_{-3}^{3}f(x)\\,dx =5∫−33​f(x)dx=5 and integral, from, minus, 6, to, 3, of, f,  of, x, d, x, equals, minus, 2, .∫−63f(x) dx=−2.\\displaystyle \\int_{-6}^{3}f(x)\\,dx =-2. ∫−63​f(x)dx=−2. What is the value of integral, from, minus, 6, to, minus, 3, of, left bracket, f,  of, x, minus, 2, right bracket, d, x, question mark∫−6−3(f(x)−2) dx?∣\\displaystyle \\int_{-6}^{-3}\\big(f(x)-2\\big)\\,dx ?\\phantom{\\Bigg|}∫−6−3​(f(x)−2)dx?​",
+    "−53-\\frac{5}{3}−35​"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 3, to, 10, of, f,  of, x, d, x, equals, 3∫−310f(x) dx=3\\displaystyle \\int_{-3}^{10}f(x)\\,dx =3∫−310​f(x)dx=3 and integral, from, minus, 10, to, 10, of, f,  of, x, d, x, equals, 4, .∫−1010f(x) dx=4.\\displaystyle \\int_{-10}^{10}f(x)\\,dx =4. ∫−1010​f(x)dx=4. What is the value of integral, from, minus, 3, to, minus, 10, of, f,  of, x, d, x, question mark∫−3−10f(x) dx?∣\\displaystyle \\int_{-3}^{-10}f(x)\\,dx ?\\phantom{\\Bigg|}∫−3−10​f(x)dx?​",
+    "Final answer: −1\\text{Final answer: }-1Final answer: −1"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 4, to, 8, of, f,  of, x, d, x, equals, 7∫48f(x) dx=7\\displaystyle \\int_{4}^{8}f(x)\\,dx =7∫48​f(x)dx=7 and integral, from, minus, 4, to, 8, of, f,  of, x, d, x, equals, 15, .∫−48f(x) dx=15.\\displaystyle \\int_{-4}^{8}f(x)\\,dx =15. ∫−48​f(x)dx=15. What is the value of integral, from, 4, to, minus, 4, of, left bracket, f,  of, x, plus, 4, right bracket, d, x, question mark∫4−4(f(x)+4) dx?∣\\displaystyle \\int_{4}^{-4}\\big(f(x)+4\\big)\\,dx ?\\phantom{\\Bigg|}∫4−4​(f(x)+4)dx?​",
+    "−40-40−40"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 5, to, minus, 8, of, f,  of, x, d, x, equals, minus, 3∫5−8f(x) dx=−3\\displaystyle \\int_{5}^{-8}f(x)\\,dx =-3∫5−8​f(x)dx=−3 and integral, from, 5, to, 7, of, f,  of, x, d, x, equals, 8, .∫57f(x) dx=8.\\displaystyle \\int_{5}^{7}f(x)\\,dx =8. ∫57​f(x)dx=8. What is the value of integral, from, minus, 8, to, 7, of, 5, f,  of, x, d, x, question mark∫−875f(x) dx?∣\\displaystyle \\int_{-8}^{7}5f(x)\\,dx ?\\phantom{\\Bigg|}∫−87​5f(x)dx?​",
+    "555"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 9, to, 7, of, f,  of, x, d, x, equals, 5∫−97f(x) dx=5\\displaystyle \\int_{-9}^{7}f(x)\\,dx =5∫−97​f(x)dx=5 and integral, from, minus, 7, to, minus, 9, of, f,  of, x, d, x, equals, minus, 2, .∫−7−9f(x) dx=−2.\\displaystyle \\int_{-7}^{-9}f(x)\\,dx =-2. ∫−7−9​f(x)dx=−2. What is the value of integral, from, minus, 7, to, 7, of, one third, f,  of, x, d, x, question mark∫−7713f(x) dx?∣\\displaystyle \\int_{-7}^{7}\\frac{1}{3}f(x)\\,dx ?\\phantom{\\Bigg|}∫−77​31​f(x)dx?​",
+    "1"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 2, to, 10, of, f,  of, x, d, x, equals, minus, 3∫210f(x) dx=−3\\displaystyle \\int_{2}^{10}f(x)\\,dx =-3∫210​f(x)dx=−3 and integral, from, minus, 1, to, 10, of, f,  of, x, d, x, equals, 3, .∫−110f(x) dx=3.\\displaystyle \\int_{-1}^{10}f(x)\\,dx =3. ∫−110​f(x)dx=3. What is the value of integral, from, minus, 1, to, 2, of, left bracket, f,  of, x, plus, 1, right bracket, d, x, question mark∫−12(f(x)+1) dx?∣\\displaystyle \\int_{-1}^{2}\\big(f(x)+1\\big)\\,dx ?\\phantom{\\Bigg|}∫−12​(f(x)+1)dx?​",
+    "9"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 1, to, 4, of, f,  of, x, d, x, equals, minus, 4∫−14f(x) dx=−4\\displaystyle \\int_{-1}^{4}f(x)\\,dx =-4∫−14​f(x)dx=−4 and integral, from, minus, 3, to, 4, of, f,  of, x, d, x, equals, minus, 3, .∫−34f(x) dx=−3.\\displaystyle \\int_{-3}^{4}f(x)\\,dx =-3. ∫−34​f(x)dx=−3. What is the value of integral, from, minus, 1, to, minus, 3, of, f,  of, x, d, x, question mark∫−1−3f(x) dx?∣\\displaystyle \\int_{-1}^{-3}f(x)\\,dx ?\\phantom{\\Bigg|}∫−1−3​f(x)dx?​",
+    "Final answer: −1\\text{Final answer: }-1Final answer: −1"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 5, to, minus, 2, of, f,  of, x, d, x, equals, 7∫5−2f(x) dx=7\\displaystyle \\int_{5}^{-2}f(x)\\,dx =7∫5−2​f(x)dx=7 and integral, from, 5, to, 6, of, f,  of, x, d, x, equals, minus, 2, .∫56f(x) dx=−2.\\displaystyle \\int_{5}^{6}f(x)\\,dx =-2. ∫56​f(x)dx=−2. What is the value of integral, from, minus, 2, to, 6, of, f,  of, x, d, x, question mark∫−26f(x) dx?∣\\displaystyle \\int_{-2}^{6}f(x)\\,dx ?\\phantom{\\Bigg|}∫−26​f(x)dx?​",
+    "Final answer: −9\\text{Final answer: }-9Final answer: −9"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 1, to, minus, 6, of, f,  of, x, d, x, equals, minus, 7∫−1−6f(x) dx=−7\\displaystyle \\int_{-1}^{-6}f(x)\\,dx =-7∫−1−6​f(x)dx=−7 and integral, from, minus, 1, to, 3, of, f,  of, x, d, x, equals, 6, .∫−13f(x) dx=6.\\displaystyle \\int_{-1}^{3}f(x)\\,dx =6. ∫−13​f(x)dx=6. What is the value of integral, from, minus, 6, to, 3, of, f,  of, x, d, x, question mark∫−63f(x) dx?∣\\displaystyle \\int_{-6}^{3}f(x)\\,dx ?\\phantom{\\Bigg|}∫−63​f(x)dx?​",
+    "Final answer: 13\\text{Final answer: }13Final answer: 13"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 4, to, 7, of, f,  of, x, d, x, equals, 5∫47f(x) dx=5\\displaystyle \\int_{4}^{7}f(x)\\,dx =5∫47​f(x)dx=5 and integral, from, 1, to, 7, of, f,  of, x, d, x, equals, 13, .∫17f(x) dx=13.\\displaystyle \\int_{1}^{7}f(x)\\,dx =13. ∫17​f(x)dx=13. What is the value of integral, from, 4, to, 1, of, one third, f,  of, x, d, x, question mark∫4113f(x) dx?∣\\displaystyle \\int_{4}^{1}\\frac{1}{3}f(x)\\,dx ?\\phantom{\\Bigg|}∫41​31​f(x)dx?​",
+    "−83-\\frac{8}{3}−38​"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 2, to, 10, of, f,  of, x, d, x, equals, minus, 7∫210f(x) dx=−7\\displaystyle \\int_{2}^{10}f(x)\\,dx =-7∫210​f(x)dx=−7 and integral, from, minus, 4, to, 10, of, f,  of, x, d, x, equals, minus, 8, .∫−410f(x) dx=−8.\\displaystyle \\int_{-4}^{10}f(x)\\,dx =-8. ∫−410​f(x)dx=−8. What is the value of integral, from, 2, to, minus, 4, of, f,  of, x, d, x, question mark∫2−4f(x) dx?∣\\displaystyle \\int_{2}^{-4}f(x)\\,dx ?\\phantom{\\Bigg|}∫2−4​f(x)dx?​",
+    "Final answer: 1\\text{Final answer: }1Final answer: 1"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 1, to, 8, of, f,  of, x, d, x, equals, 2∫18f(x) dx=2\\displaystyle \\int_{1}^{8}f(x)\\,dx =2∫18​f(x)dx=2 and integral, from, 3, to, 1, of, f,  of, x, d, x, equals, 3, .∫31f(x) dx=3.\\displaystyle \\int_{3}^{1}f(x)\\,dx =3. ∫31​f(x)dx=3. What is the value of integral, from, 3, to, 8, of, left bracket, f,  of, x, plus, 5, right bracket, d, x, question mark∫38(f(x)+5) dx?∣\\displaystyle \\int_{3}^{8}\\big(f(x)+5\\big)\\,dx ?\\phantom{\\Bigg|}∫38​(f(x)+5)dx?​",
+    "30"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 2, to, minus, 3, of, f,  of, x, d, x, equals, minus, 6∫−2−3f(x) dx=−6\\displaystyle \\int_{-2}^{-3}f(x)\\,dx =-6∫−2−3​f(x)dx=−6 and integral, from, minus, 2, to, 10, of, f,  of, x, d, x, equals, 3, .∫−210f(x) dx=3.\\displaystyle \\int_{-2}^{10}f(x)\\,dx =3. ∫−210​f(x)dx=3. What is the value of integral, from, minus, 3, to, 10, of, one third, f,  of, x, d, x, question mark∫−31013f(x) dx?∣\\displaystyle \\int_{-3}^{10}\\frac{1}{3}f(x)\\,dx ?\\phantom{\\Bigg|}∫−310​31​f(x)dx?​",
+    "3"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 3, to, minus, 3, of, f,  of, x, d, x, equals, minus, 9∫3−3f(x) dx=−9\\displaystyle \\int_{3}^{-3}f(x)\\,dx =-9∫3−3​f(x)dx=−9 and integral, from, minus, 3, to, 1, of, f,  of, x, d, x, equals, 6, .∫−31f(x) dx=6.\\displaystyle \\int_{-3}^{1}f(x)\\,dx =6. ∫−31​f(x)dx=6. What is the value of integral, from, 1, to, 3, of, 4, f,  of, x, d, x, question mark∫134f(x) dx?∣\\displaystyle \\int_{1}^{3}4f(x)\\,dx ?\\phantom{\\Bigg|}∫13​4f(x)dx?​",
+    "12"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 3, to, 7, of, f,  of, x, d, x, equals, 3∫37f(x) dx=3\\displaystyle \\int_{3}^{7}f(x)\\,dx =3∫37​f(x)dx=3 and integral, from, 0, to, 7, of, f,  of, x, d, x, equals, 8, .∫07f(x) dx=8.\\displaystyle \\int_{0}^{7}f(x)\\,dx =8. ∫07​f(x)dx=8. What is the value of integral, from, 3, to, 0, of, left bracket, f,  of, x, plus, 3, right bracket, d, x, question mark∫30(f(x)+3) dx?∣\\displaystyle \\int_{3}^{0}\\big(f(x)+3\\big)\\,dx ?\\phantom{\\Bigg|}∫30​(f(x)+3)dx?​",
+    "24"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 9, to, 8, of, f,  of, x, d, x, equals, 5∫−98f(x) dx=5\\displaystyle \\int_{-9}^{8}f(x)\\,dx =5∫−98​f(x)dx=5 and integral, from, 4, to, minus, 9, of, f,  of, x, d, x, equals, minus, 2, .∫4−9f(x) dx=−2.\\displaystyle \\int_{4}^{-9}f(x)\\,dx =-2. ∫4−9​f(x)dx=−2. What is the value of integral, from, 4, to, 8, of, 3, f,  of, x, d, x, question mark∫483f(x) dx?∣\\displaystyle \\int_{4}^{8}3f(x)\\,dx ?\\phantom{\\Bigg|}∫48​3f(x)dx?​",
+    "9"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 1, to, 2, of, f,  of, x, d, x, equals, minus, 9∫12f(x) dx=−9\\displaystyle \\int_{1}^{2}f(x)\\,dx =-9∫12​f(x)dx=−9 and integral, from, minus, 3, to, 2, of, f,  of, x, d, x, equals, minus, 8, .∫−32f(x) dx=−8.\\displaystyle \\int_{-3}^{2}f(x)\\,dx =-8. ∫−32​f(x)dx=−8. What is the value of integral, from, minus, 3, to, 1, of, f,  of, x, d, x, question mark∫−31f(x) dx?∣\\displaystyle \\int_{-3}^{1}f(x)\\,dx ?\\phantom{\\Bigg|}∫−31​f(x)dx?​",
+    "Final answer: 1\\text{Final answer: }1Final answer: 1"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 3, to, 6, of, f,  of, x, d, x, equals, 13∫36f(x) dx=13\\displaystyle \\int_{3}^{6}f(x)\\,dx =13∫36​f(x)dx=13 and integral, from, 4, to, 3, of, f,  of, x, d, x, equals, minus, 8, .∫43f(x) dx=−8.\\displaystyle \\int_{4}^{3}f(x)\\,dx =-8. ∫43​f(x)dx=−8. What is the value of integral, from, 4, to, 6, of, one third, f,  of, x, d, x, question mark∫4613f(x) dx?∣\\displaystyle \\int_{4}^{6}\\frac{1}{3}f(x)\\,dx ?\\phantom{\\Bigg|}∫46​31​f(x)dx?​",
+    "53\\frac{5}{3}35​"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 0, to, 6, of, f,  of, x, d, x, equals, 1∫06f(x) dx=1\\displaystyle \\int_{0}^{6}f(x)\\,dx =1∫06​f(x)dx=1 and integral, from, 0, to, 4, of, f,  of, x, d, x, equals, 2, .∫04f(x) dx=2.\\displaystyle \\int_{0}^{4}f(x)\\,dx =2. ∫04​f(x)dx=2. What is the value of integral, from, 6, to, 4, of, f,  of, x, d, x, question mark∫64f(x) dx?∣\\displaystyle \\int_{6}^{4}f(x)\\,dx ?\\phantom{\\Bigg|}∫64​f(x)dx?​",
+    "Final answer: 1\\text{Final answer: }1Final answer: 1"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 9, to, 8, of, f,  of, x, d, x, equals, 6∫−98f(x) dx=6\\displaystyle \\int_{-9}^{8}f(x)\\,dx =6∫−98​f(x)dx=6 and integral, from, minus, 9, to, 7, of, f,  of, x, d, x, equals, 4, .∫−97f(x) dx=4.\\displaystyle \\int_{-9}^{7}f(x)\\,dx =4. ∫−97​f(x)dx=4. What is the value of integral, from, 7, to, 8, of, f,  of, x, d, x, question mark∫78f(x) dx?∣\\displaystyle \\int_{7}^{8}f(x)\\,dx ?\\phantom{\\Bigg|}∫78​f(x)dx?​",
+    "Final answer: 2\\text{Final answer: }2Final answer: 2"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 1, to, 6, of, f,  of, x, d, x, equals, 7∫16f(x) dx=7\\displaystyle \\int_{1}^{6}f(x)\\,dx =7∫16​f(x)dx=7 and integral, from, minus, 8, to, 6, of, f,  of, x, d, x, equals, 4, .∫−86f(x) dx=4.\\displaystyle \\int_{-8}^{6}f(x)\\,dx =4. ∫−86​f(x)dx=4. What is the value of integral, from, minus, 8, to, 1, of, left bracket, f,  of, x, plus, 2, right bracket, d, x, question mark∫−81(f(x)+2) dx?∣\\displaystyle \\int_{-8}^{1}\\big(f(x)+2\\big)\\,dx ?\\phantom{\\Bigg|}∫−81​(f(x)+2)dx?​",
+    "15"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 3, to, 1, of, f,  of, x, d, x, equals, minus, 10∫−31f(x) dx=−10\\displaystyle \\int_{-3}^{1}f(x)\\,dx =-10∫−31​f(x)dx=−10 and integral, from, 1, to, minus, 6, of, f,  of, x, d, x, equals, 9, .∫1−6f(x) dx=9.\\displaystyle \\int_{1}^{-6}f(x)\\,dx =9. ∫1−6​f(x)dx=9. What is the value of integral, from, minus, 6, to, minus, 3, of, left bracket, f,  of, x, minus, 4, right bracket, d, x, question mark∫−6−3(f(x)−4) dx?∣\\displaystyle \\int_{-6}^{-3}\\big(f(x)-4\\big)\\,dx ?\\phantom{\\Bigg|}∫−6−3​(f(x)−4)dx?​",
+    "−1-1−1"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 8, to, 0, of, f,  of, x, d, x, equals, minus, 13∫80f(x) dx=−13\\displaystyle \\int_{8}^{0}f(x)\\,dx =-13∫80​f(x)dx=−13 and integral, from, 0, to, 2, of, f,  of, x, d, x, equals, 8, .∫02f(x) dx=8.\\displaystyle \\int_{0}^{2}f(x)\\,dx =8. ∫02​f(x)dx=8. What is the value of integral, from, 2, to, 8, of, left bracket, f,  of, x, plus, 4, right bracket, d, x, question mark∫28(f(x)+4) dx?∣\\displaystyle \\int_{2}^{8}\\big(f(x)+4\\big)\\,dx ?\\phantom{\\Bigg|}∫28​(f(x)+4)dx?​",
+    "29"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 5, to, minus, 3, of, f,  of, x, d, x, equals, 10∫5−3f(x) dx=10\\displaystyle \\int_{5}^{-3}f(x)\\,dx =10∫5−3​f(x)dx=10 and integral, from, 5, to, 7, of, f,  of, x, d, x, equals, 2, .∫57f(x) dx=2.\\displaystyle \\int_{5}^{7}f(x)\\,dx =2. ∫57​f(x)dx=2. What is the value of integral, from, minus, 3, to, 7, of, one quarter, f,  of, x, d, x, question mark∫−3714f(x) dx?∣\\displaystyle \\int_{-3}^{7}\\frac{1}{4}f(x)\\,dx ?\\phantom{\\Bigg|}∫−37​41​f(x)dx?​",
+    "−2-2−2"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 3, to, 4, of, f,  of, x, d, x, equals, minus, 6∫−34f(x) dx=−6\\displaystyle \\int_{-3}^{4}f(x)\\,dx =-6∫−34​f(x)dx=−6 and integral, from, minus, 6, to, 4, of, f,  of, x, d, x, equals, minus, 9, .∫−64f(x) dx=−9.\\displaystyle \\int_{-6}^{4}f(x)\\,dx =-9. ∫−64​f(x)dx=−9. What is the value of integral, from, minus, 3, to, minus, 6, of, f,  of, x, d, x, question mark∫−3−6f(x) dx?∣\\displaystyle \\int_{-3}^{-6}f(x)\\,dx ?\\phantom{\\Bigg|}∫−3−6​f(x)dx?​",
+    "Final answer: 3\\text{Final answer: }3Final answer: 3"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 4, to, 6, of, f,  of, x, d, x, equals, minus, 6∫−46f(x) dx=−6\\displaystyle \\int_{-4}^{6}f(x)\\,dx =-6∫−46​f(x)dx=−6 and integral, from, 1, to, minus, 4, of, f,  of, x, d, x, equals, minus, 4, .∫1−4f(x) dx=−4.\\displaystyle \\int_{1}^{-4}f(x)\\,dx =-4. ∫1−4​f(x)dx=−4. What is the value of integral, from, 1, to, 6, of, one half, f,  of, x, d, x, question mark∫1612f(x) dx?∣\\displaystyle \\int_{1}^{6}\\frac{1}{2}f(x)\\,dx ?\\phantom{\\Bigg|}∫16​21​f(x)dx?​",
+    "−5-5−5"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 5, to, 10, of, f,  of, x, d, x, equals, minus, 1∫510f(x) dx=−1\\displaystyle \\int_{5}^{10}f(x)\\,dx =-1∫510​f(x)dx=−1 and integral, from, 8, to, 5, of, f,  of, x, d, x, equals, minus, 6, .∫85f(x) dx=−6.\\displaystyle \\int_{8}^{5}f(x)\\,dx =-6. ∫85​f(x)dx=−6. What is the value of integral, from, 8, to, 10, of, one third, f,  of, x, d, x, question mark∫81013f(x) dx?∣\\displaystyle \\int_{8}^{10}\\frac{1}{3}f(x)\\,dx ?\\phantom{\\Bigg|}∫810​31​f(x)dx?​",
+    "−73-\\frac{7}{3}−37​"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 7, to, minus, 2, of, f,  of, x, d, x, equals, minus, 6∫7−2f(x) dx=−6\\displaystyle \\int_{7}^{-2}f(x)\\,dx =-6∫7−2​f(x)dx=−6 and integral, from, minus, 2, to, 6, of, f,  of, x, d, x, equals, 9, .∫−26f(x) dx=9.\\displaystyle \\int_{-2}^{6}f(x)\\,dx =9. ∫−26​f(x)dx=9. What is the value of integral, from, 6, to, 7, of, f,  of, x, d, x, question mark∫67f(x) dx?∣\\displaystyle \\int_{6}^{7}f(x)\\,dx ?\\phantom{\\Bigg|}∫67​f(x)dx?​",
+    "Final answer: −3\\text{Final answer: }-3Final answer: −3"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 10, to, minus, 1, of, f,  of, x, d, x, equals, 18∫−10−1f(x) dx=18\\displaystyle \\int_{-10}^{-1}f(x)\\,dx =18∫−10−1​f(x)dx=18 and integral, from, minus, 7, to, minus, 10, of, f,  of, x, d, x, equals, minus, 10, .∫−7−10f(x) dx=−10.\\displaystyle \\int_{-7}^{-10}f(x)\\,dx =-10. ∫−7−10​f(x)dx=−10. What is the value of integral, from, minus, 7, to, minus, 1, of, left bracket, f,  of, x, minus, 1, right bracket, d, x, question mark∫−7−1(f(x)−1) dx?∣\\displaystyle \\int_{-7}^{-1}\\big(f(x)-1\\big)\\,dx ?\\phantom{\\Bigg|}∫−7−1​(f(x)−1)dx?​",
+    "2"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 2, to, 8, of, f,  of, x, d, x, equals, 7∫28f(x) dx=7\\displaystyle \\int_{2}^{8}f(x)\\,dx =7∫28​f(x)dx=7 and integral, from, minus, 9, to, 8, of, f,  of, x, d, x, equals, 11, .∫−98f(x) dx=11.\\displaystyle \\int_{-9}^{8}f(x)\\,dx =11. ∫−98​f(x)dx=11. What is the value of integral, from, 2, to, minus, 9, of, f,  of, x, d, x, question mark∫2−9f(x) dx?∣\\displaystyle \\int_{2}^{-9}f(x)\\,dx ?\\phantom{\\Bigg|}∫2−9​f(x)dx?​",
+    "Final answer: −4\\text{Final answer: }-4Final answer: −4"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 5, to, 6, of, f,  of, x, d, x, equals, 9∫56f(x) dx=9\\displaystyle \\int_{5}^{6}f(x)\\,dx =9∫56​f(x)dx=9 and integral, from, 1, to, 6, of, f,  of, x, d, x, equals, 13, .∫16f(x) dx=13.\\displaystyle \\int_{1}^{6}f(x)\\,dx =13. ∫16​f(x)dx=13. What is the value of integral, from, 5, to, 1, of, f,  of, x, d, x, question mark∫51f(x) dx?∣\\displaystyle \\int_{5}^{1}f(x)\\,dx ?\\phantom{\\Bigg|}∫51​f(x)dx?​",
+    "Final answer: −4\\text{Final answer: }-4Final answer: −4"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 1, to, 6, of, f,  of, x, d, x, equals, 16∫−16f(x) dx=16\\displaystyle \\int_{-1}^{6}f(x)\\,dx =16∫−16​f(x)dx=16 and integral, from, 1, to, minus, 1, of, f,  of, x, d, x, equals, minus, 6, .∫1−1f(x) dx=−6.\\displaystyle \\int_{1}^{-1}f(x)\\,dx =-6. ∫1−1​f(x)dx=−6. What is the value of integral, from, 1, to, 6, of, 2, f,  of, x, d, x, question mark∫162f(x) dx?∣\\displaystyle \\int_{1}^{6}2f(x)\\,dx ?\\phantom{\\Bigg|}∫16​2f(x)dx?​",
+    "20"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 2, to, 3, of, f,  of, x, d, x, equals, 2∫−23f(x) dx=2\\displaystyle \\int_{-2}^{3}f(x)\\,dx =2∫−23​f(x)dx=2 and integral, from, 3, to, minus, 9, of, f,  of, x, d, x, equals, minus, 11, .∫3−9f(x) dx=−11.\\displaystyle \\int_{3}^{-9}f(x)\\,dx =-11. ∫3−9​f(x)dx=−11. What is the value of integral, from, minus, 9, to, minus, 2, of, left bracket, f,  of, x, plus, 1, right bracket, d, x, question mark∫−9−2(f(x)+1) dx?∣\\displaystyle \\int_{-9}^{-2}\\big(f(x)+1\\big)\\,dx ?\\phantom{\\Bigg|}∫−9−2​(f(x)+1)dx?​",
+    "16"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 8, to, 9, of, f,  of, x, d, x, equals, 15∫−89f(x) dx=15\\displaystyle \\int_{-8}^{9}f(x)\\,dx =15∫−89​f(x)dx=15 and integral, from, 2, to, minus, 8, of, f,  of, x, d, x, equals, minus, 10, .∫2−8f(x) dx=−10.\\displaystyle \\int_{2}^{-8}f(x)\\,dx =-10. ∫2−8​f(x)dx=−10. What is the value of integral, from, 2, to, 9, of, one third, f,  of, x, d, x, question mark∫2913f(x) dx?∣\\displaystyle \\int_{2}^{9}\\frac{1}{3}f(x)\\,dx ?\\phantom{\\Bigg|}∫29​31​f(x)dx?​",
+    "53\\frac{5}{3}35​"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 1, to, 5, of, f,  of, x, d, x, equals, 7∫15f(x) dx=7\\displaystyle \\int_{1}^{5}f(x)\\,dx =7∫15​f(x)dx=7 and integral, from, minus, 3, to, 5, of, f,  of, x, d, x, equals, 3, .∫−35f(x) dx=3.\\displaystyle \\int_{-3}^{5}f(x)\\,dx =3. ∫−35​f(x)dx=3. What is the value of integral, from, 1, to, minus, 3, of, f,  of, x, d, x, question mark∫1−3f(x) dx?∣\\displaystyle \\int_{1}^{-3}f(x)\\,dx ?\\phantom{\\Bigg|}∫1−3​f(x)dx?​",
+    "Final answer: 4\\text{Final answer: }4Final answer: 4"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 8, to, 3, of, f,  of, x, d, x, equals, minus, 2∫83f(x) dx=−2\\displaystyle \\int_{8}^{3}f(x)\\,dx =-2∫83​f(x)dx=−2 and integral, from, 1, to, 8, of, f,  of, x, d, x, equals, 5, .∫18f(x) dx=5.\\displaystyle \\int_{1}^{8}f(x)\\,dx =5. ∫18​f(x)dx=5. What is the value of integral, from, 1, to, 3, of, f,  of, x, d, x, question mark∫13f(x) dx?∣\\displaystyle \\int_{1}^{3}f(x)\\,dx ?\\phantom{\\Bigg|}∫13​f(x)dx?​",
+    "Final answer: 3\\text{Final answer: }3Final answer: 3"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 7, to, 9, of, f,  of, x, d, x, equals, minus, 7∫79f(x) dx=−7\\displaystyle \\int_{7}^{9}f(x)\\,dx =-7∫79​f(x)dx=−7 and integral, from, minus, 6, to, 9, of, f,  of, x, d, x, equals, minus, 2, .∫−69f(x) dx=−2.\\displaystyle \\int_{-6}^{9}f(x)\\,dx =-2. ∫−69​f(x)dx=−2. What is the value of integral, from, 7, to, minus, 6, of, one third, f,  of, x, d, x, question mark∫7−613f(x) dx?∣\\displaystyle \\int_{7}^{-6}\\frac{1}{3}f(x)\\,dx ?\\phantom{\\Bigg|}∫7−6​31​f(x)dx?​",
+    "−53-\\frac{5}{3}−35​"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 8, to, 9, of, f,  of, x, d, x, equals, 6∫−89f(x) dx=6\\displaystyle \\int_{-8}^{9}f(x)\\,dx =6∫−89​f(x)dx=6 and integral, from, minus, 2, to, minus, 8, of, f,  of, x, d, x, equals, minus, 4, .∫−2−8f(x) dx=−4.\\displaystyle \\int_{-2}^{-8}f(x)\\,dx =-4. ∫−2−8​f(x)dx=−4. What is the value of integral, from, minus, 2, to, 9, of, f,  of, x, d, x, question mark∫−29f(x) dx?∣\\displaystyle \\int_{-2}^{9}f(x)\\,dx ?\\phantom{\\Bigg|}∫−29​f(x)dx?​",
+    "Final answer: 2\\text{Final answer: }2Final answer: 2"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 2, to, 10, of, f,  of, x, d, x, equals, 1∫−210f(x) dx=1\\displaystyle \\int_{-2}^{10}f(x)\\,dx =1∫−210​f(x)dx=1 and integral, from, 10, to, minus, 3, of, f,  of, x, d, x, equals, minus, 5, .∫10−3f(x) dx=−5.\\displaystyle \\int_{10}^{-3}f(x)\\,dx =-5. ∫10−3​f(x)dx=−5. What is the value of integral, from, minus, 3, to, minus, 2, of, 2, f,  of, x, d, x, question mark∫−3−22f(x) dx?∣\\displaystyle \\int_{-3}^{-2}2f(x)\\,dx ?\\phantom{\\Bigg|}∫−3−2​2f(x)dx?​",
+    "8"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 3, to, 9, of, f,  of, x, d, x, equals, 10∫39f(x) dx=10\\displaystyle \\int_{3}^{9}f(x)\\,dx =10∫39​f(x)dx=10 and integral, from, 3, to, 8, of, f,  of, x, d, x, equals, 7, .∫38f(x) dx=7.\\displaystyle \\int_{3}^{8}f(x)\\,dx =7. ∫38​f(x)dx=7. What is the value of integral, from, 9, to, 8, of, f,  of, x, d, x, question mark∫98f(x) dx?∣\\displaystyle \\int_{9}^{8}f(x)\\,dx ?\\phantom{\\Bigg|}∫98​f(x)dx?​",
+    "Final answer: −3\\text{Final answer: }-3Final answer: −3"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 10, to, 7, of, f,  of, x, d, x, equals, 3∫−107f(x) dx=3\\displaystyle \\int_{-10}^{7}f(x)\\,dx =3∫−107​f(x)dx=3 and integral, from, 7, to, 9, of, f,  of, x, d, x, equals, 8, .∫79f(x) dx=8.\\displaystyle \\int_{7}^{9}f(x)\\,dx =8. ∫79​f(x)dx=8. What is the value of integral, from, minus, 10, to, 9, of, left bracket, f,  of, x, minus, 3, right bracket, d, x, question mark∫−109(f(x)−3) dx?∣\\displaystyle \\int_{-10}^{9}\\big(f(x)-3\\big)\\,dx ?\\phantom{\\Bigg|}∫−109​(f(x)−3)dx?​",
+    "−46-46−46"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 2, to, minus, 8, of, f,  of, x, d, x, equals, minus, 7∫−2−8f(x) dx=−7\\displaystyle \\int_{-2}^{-8}f(x)\\,dx =-7∫−2−8​f(x)dx=−7 and integral, from, minus, 2, to, 3, of, f,  of, x, d, x, equals, 1, .∫−23f(x) dx=1.\\displaystyle \\int_{-2}^{3}f(x)\\,dx =1. ∫−23​f(x)dx=1. What is the value of integral, from, minus, 8, to, 3, of, f,  of, x, d, x, question mark∫−83f(x) dx?∣\\displaystyle \\int_{-8}^{3}f(x)\\,dx ?\\phantom{\\Bigg|}∫−83​f(x)dx?​",
+    "Final answer: 8\\text{Final answer: }8Final answer: 8"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 0, to, 9, of, f,  of, x, d, x, equals, minus, 11∫09f(x) dx=−11\\displaystyle \\int_{0}^{9}f(x)\\,dx =-11∫09​f(x)dx=−11 and integral, from, 8, to, 0, of, f,  of, x, d, x, equals, 2, .∫80f(x) dx=2.\\displaystyle \\int_{8}^{0}f(x)\\,dx =2. ∫80​f(x)dx=2. What is the value of integral, from, 8, to, 9, of, f,  of, x, d, x, question mark∫89f(x) dx?∣\\displaystyle \\int_{8}^{9}f(x)\\,dx ?\\phantom{\\Bigg|}∫89​f(x)dx?​",
+    "−20-20−20"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 2, to, 8, of, f,  of, x, d, x, equals, 6∫−28f(x) dx=6\\displaystyle \\int_{-2}^{8}f(x)\\,dx =6∫−28​f(x)dx=6 and integral, from, minus, 2, to, 5, of, f,  of, x, d, x, equals, 1, .∫−25f(x) dx=1.\\displaystyle \\int_{-2}^{5}f(x)\\,dx =1. ∫−25​f(x)dx=1. What is the value of integral, from, 8, to, 5, of, 3, f,  of, x, d, x, question mark∫853f(x) dx?∣\\displaystyle \\int_{8}^{5}3f(x)\\,dx ?\\phantom{\\Bigg|}∫85​3f(x)dx?​",
+    "−15-15−15"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 8, to, 7, of, f,  of, x, d, x, equals, 8∫−87f(x) dx=8\\displaystyle \\int_{-8}^{7}f(x)\\,dx =8∫−87​f(x)dx=8 and integral, from, 2, to, minus, 8, of, f,  of, x, d, x, equals, minus, 7, .∫2−8f(x) dx=−7.\\displaystyle \\int_{2}^{-8}f(x)\\,dx =-7. ∫2−8​f(x)dx=−7. What is the value of integral, from, 2, to, 7, of, 5, f,  of, x, d, x, question mark∫275f(x) dx?∣\\displaystyle \\int_{2}^{7}5f(x)\\,dx ?\\phantom{\\Bigg|}∫27​5f(x)dx?​",
+    "5"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 3, to, 5, of, f,  of, x, d, x, equals, 2∫35f(x) dx=2\\displaystyle \\int_{3}^{5}f(x)\\,dx =2∫35​f(x)dx=2 and integral, from, minus, 4, to, 5, of, f,  of, x, d, x, equals, minus, 4, .∫−45f(x) dx=−4.\\displaystyle \\int_{-4}^{5}f(x)\\,dx =-4. ∫−45​f(x)dx=−4. What is the value of integral, from, 3, to, minus, 4, of, left bracket, f,  of, x, minus, 1, right bracket, d, x, question mark∫3−4(f(x)−1) dx?∣\\displaystyle \\int_{3}^{-4}\\big(f(x)-1\\big)\\,dx ?\\phantom{\\Bigg|}∫3−4​(f(x)−1)dx?​",
+    "13"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 6, to, 2, of, f,  of, x, d, x, equals, 9∫62f(x) dx=9\\displaystyle \\int_{6}^{2}f(x)\\,dx =9∫62​f(x)dx=9 and integral, from, 6, to, 9, of, f,  of, x, d, x, equals, 6, .∫69f(x) dx=6.\\displaystyle \\int_{6}^{9}f(x)\\,dx =6. ∫69​f(x)dx=6. What is the value of integral, from, 2, to, 9, of, left bracket, f,  of, x, plus, 4, right bracket, d, x, question mark∫29(f(x)+4) dx?∣\\displaystyle \\int_{2}^{9}\\big(f(x)+4\\big)\\,dx ?\\phantom{\\Bigg|}∫29​(f(x)+4)dx?​",
+    "25"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 8, to, 4, of, f,  of, x, d, x, equals, 10∫84f(x) dx=10\\displaystyle \\int_{8}^{4}f(x)\\,dx =10∫84​f(x)dx=10 and integral, from, 8, to, 10, of, f,  of, x, d, x, equals, 3, .∫810f(x) dx=3.\\displaystyle \\int_{8}^{10}f(x)\\,dx =3. ∫810​f(x)dx=3. What is the value of integral, from, 4, to, 10, of, one fifth, f,  of, x, d, x, question mark∫41015f(x) dx?∣\\displaystyle \\int_{4}^{10}\\frac{1}{5}f(x)\\,dx ?\\phantom{\\Bigg|}∫410​51​f(x)dx?​",
+    "−75-\\frac{7}{5}−57​"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 4, to, 2, of, f,  of, x, d, x, equals, minus, 4∫42f(x) dx=−4\\displaystyle \\int_{4}^{2}f(x)\\,dx =-4∫42​f(x)dx=−4 and integral, from, minus, 1, to, 4, of, f,  of, x, d, x, equals, 3, .∫−14f(x) dx=3.\\displaystyle \\int_{-1}^{4}f(x)\\,dx =3. ∫−14​f(x)dx=3. What is the value of integral, from, minus, 1, to, 2, of, f,  of, x, d, x, question mark∫−12f(x) dx?∣\\displaystyle \\int_{-1}^{2}f(x)\\,dx ?\\phantom{\\Bigg|}∫−12​f(x)dx?​",
+    "Final answer: −1\\text{Final answer: }-1Final answer: −1"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 7, to, minus, 2, of, f,  of, x, d, x, equals, minus, 2∫−7−2f(x) dx=−2\\displaystyle \\int_{-7}^{-2}f(x)\\,dx =-2∫−7−2​f(x)dx=−2 and integral, from, minus, 3, to, minus, 7, of, f,  of, x, d, x, equals, 3, .∫−3−7f(x) dx=3.\\displaystyle \\int_{-3}^{-7}f(x)\\,dx =3. ∫−3−7​f(x)dx=3. What is the value of integral, from, minus, 3, to, minus, 2, of, left bracket, f,  of, x, minus, 5, right bracket, d, x, question mark∫−3−2(f(x)−5) dx?∣\\displaystyle \\int_{-3}^{-2}\\big(f(x)-5\\big)\\,dx ?\\phantom{\\Bigg|}∫−3−2​(f(x)−5)dx?​",
+    "−4-4−4"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 6, to, minus, 4, of, f,  of, x, d, x, equals, 6∫6−4f(x) dx=6\\displaystyle \\int_{6}^{-4}f(x)\\,dx =6∫6−4​f(x)dx=6 and integral, from, minus, 4, to, minus, 1, of, f,  of, x, d, x, equals, 1, .∫−4−1f(x) dx=1.\\displaystyle \\int_{-4}^{-1}f(x)\\,dx =1. ∫−4−1​f(x)dx=1. What is the value of integral, from, minus, 1, to, 6, of, f,  of, x, d, x, question mark∫−16f(x) dx?∣\\displaystyle \\int_{-1}^{6}f(x)\\,dx ?\\phantom{\\Bigg|}∫−16​f(x)dx?​",
+    "Final answer: −7\\text{Final answer: }-7Final answer: −7"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 6, to, 8, of, f,  of, x, d, x, equals, 3∫68f(x) dx=3\\displaystyle \\int_{6}^{8}f(x)\\,dx =3∫68​f(x)dx=3 and integral, from, 5, to, 8, of, f,  of, x, d, x, equals, minus, 3, .∫58f(x) dx=−3.\\displaystyle \\int_{5}^{8}f(x)\\,dx =-3. ∫58​f(x)dx=−3. What is the value of integral, from, 6, to, 5, of, one quarter, f,  of, x, d, x, question mark∫6514f(x) dx?∣\\displaystyle \\int_{6}^{5}\\frac{1}{4}f(x)\\,dx ?\\phantom{\\Bigg|}∫65​41​f(x)dx?​",
+    "32\\frac{3}{2}23​"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 8, to, 8, of, f,  of, x, d, x, equals, 1∫−88f(x) dx=1\\displaystyle \\int_{-8}^{8}f(x)\\,dx =1∫−88​f(x)dx=1 and integral, from, minus, 8, to, minus, 7, of, f,  of, x, d, x, equals, 5, .∫−8−7f(x) dx=5.\\displaystyle \\int_{-8}^{-7}f(x)\\,dx =5. ∫−8−7​f(x)dx=5. What is the value of integral, from, 8, to, minus, 7, of, f,  of, x, d, x, question mark∫8−7f(x) dx?∣\\displaystyle \\int_{8}^{-7}f(x)\\,dx ?\\phantom{\\Bigg|}∫8−7​f(x)dx?​",
+    "Final answer: 4\\text{Final answer: }4Final answer: 4"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 1, to, minus, 10, of, f,  of, x, d, x, equals, 4∫1−10f(x) dx=4\\displaystyle \\int_{1}^{-10}f(x)\\,dx =4∫1−10​f(x)dx=4 and integral, from, 1, to, 3, of, f,  of, x, d, x, equals, 9, .∫13f(x) dx=9.\\displaystyle \\int_{1}^{3}f(x)\\,dx =9. ∫13​f(x)dx=9. What is the value of integral, from, minus, 10, to, 3, of, f,  of, x, d, x, question mark∫−103f(x) dx?∣\\displaystyle \\int_{-10}^{3}f(x)\\,dx ?\\phantom{\\Bigg|}∫−103​f(x)dx?​",
+    "Final answer: 5\\text{Final answer: }5Final answer: 5"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 3, to, minus, 2, of, f,  of, x, d, x, equals, minus, 8∫−3−2f(x) dx=−8\\displaystyle \\int_{-3}^{-2}f(x)\\,dx =-8∫−3−2​f(x)dx=−8 and integral, from, minus, 2, to, 9, of, f,  of, x, d, x, equals, 5, .∫−29f(x) dx=5.\\displaystyle \\int_{-2}^{9}f(x)\\,dx =5. ∫−29​f(x)dx=5. What is the value of integral, from, 9, to, minus, 3, of, f,  of, x, d, x, question mark∫9−3f(x) dx?∣\\displaystyle \\int_{9}^{-3}f(x)\\,dx ?\\phantom{\\Bigg|}∫9−3​f(x)dx?​",
+    "Final answer: 3\\text{Final answer: }3Final answer: 3"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 3, to, 6, of, f,  of, x, d, x, equals, 2∫36f(x) dx=2\\displaystyle \\int_{3}^{6}f(x)\\,dx =2∫36​f(x)dx=2 and integral, from, 6, to, 8, of, f,  of, x, d, x, equals, 4, .∫68f(x) dx=4.\\displaystyle \\int_{6}^{8}f(x)\\,dx =4. ∫68​f(x)dx=4. What is the value of integral, from, 8, to, 3, of, f,  of, x, d, x, question mark∫83f(x) dx?∣\\displaystyle \\int_{8}^{3}f(x)\\,dx ?\\phantom{\\Bigg|}∫83​f(x)dx?​",
+    "Final answer: −6\\text{Final answer: }-6Final answer: −6"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 5, to, 9, of, f,  of, x, d, x, equals, minus, 2∫59f(x) dx=−2\\displaystyle \\int_{5}^{9}f(x)\\,dx =-2∫59​f(x)dx=−2 and integral, from, minus, 7, to, 9, of, f,  of, x, d, x, equals, 4, .∫−79f(x) dx=4.\\displaystyle \\int_{-7}^{9}f(x)\\,dx =4. ∫−79​f(x)dx=4. What is the value of integral, from, 5, to, minus, 7, of, left bracket, f,  of, x, minus, 2, right bracket, d, x, question mark∫5−7(f(x)−2) dx?∣\\displaystyle \\int_{5}^{-7}\\big(f(x)-2\\big)\\,dx ?\\phantom{\\Bigg|}∫5−7​(f(x)−2)dx?​",
+    "18"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 1, to, 6, of, f,  of, x, d, x, equals, 2∫16f(x) dx=2\\displaystyle \\int_{1}^{6}f(x)\\,dx =2∫16​f(x)dx=2 and integral, from, 6, to, minus, 6, of, f,  of, x, d, x, equals, 8, .∫6−6f(x) dx=8.\\displaystyle \\int_{6}^{-6}f(x)\\,dx =8. ∫6−6​f(x)dx=8. What is the value of integral, from, minus, 6, to, 1, of, f,  of, x, d, x, question mark∫−61f(x) dx?∣\\displaystyle \\int_{-6}^{1}f(x)\\,dx ?\\phantom{\\Bigg|}∫−61​f(x)dx?​",
+    "Final answer: −10\\text{Final answer: }-10Final answer: −10"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 3, to, 3, of, f,  of, x, d, x, equals, minus, 17∫−33f(x) dx=−17\\displaystyle \\int_{-3}^{3}f(x)\\,dx =-17∫−33​f(x)dx=−17 and integral, from, minus, 2, to, minus, 3, of, f,  of, x, d, x, equals, 9, .∫−2−3f(x) dx=9.\\displaystyle \\int_{-2}^{-3}f(x)\\,dx =9. ∫−2−3​f(x)dx=9. What is the value of integral, from, minus, 2, to, 3, of, f,  of, x, d, x, question mark∫−23f(x) dx?∣\\displaystyle \\int_{-2}^{3}f(x)\\,dx ?\\phantom{\\Bigg|}∫−23​f(x)dx?​",
+    "Final answer: −8\\text{Final answer: }-8Final answer: −8"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 3, to, minus, 7, of, f,  of, x, d, x, equals, 10∫3−7f(x) dx=10\\displaystyle \\int_{3}^{-7}f(x)\\,dx =10∫3−7​f(x)dx=10 and integral, from, 3, to, 10, of, f,  of, x, d, x, equals, minus, 4, .∫310f(x) dx=−4.\\displaystyle \\int_{3}^{10}f(x)\\,dx =-4. ∫310​f(x)dx=−4. What is the value of integral, from, minus, 7, to, 10, of, f,  of, x, d, x, question mark∫−710f(x) dx?∣\\displaystyle \\int_{-7}^{10}f(x)\\,dx ?\\phantom{\\Bigg|}∫−710​f(x)dx?​",
+    "Final answer: −14\\text{Final answer: }-14Final answer: −14"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 0, to, 10, of, f,  of, x, d, x, equals, 7∫010f(x) dx=7\\displaystyle \\int_{0}^{10}f(x)\\,dx =7∫010​f(x)dx=7 and integral, from, minus, 9, to, 10, of, f,  of, x, d, x, equals, minus, 3, .∫−910f(x) dx=−3.\\displaystyle \\int_{-9}^{10}f(x)\\,dx =-3. ∫−910​f(x)dx=−3. What is the value of integral, from, 0, to, minus, 9, of, left bracket, f,  of, x, plus, 2, right bracket, d, x, question mark∫0−9(f(x)+2) dx?∣\\displaystyle \\int_{0}^{-9}\\big(f(x)+2\\big)\\,dx ?\\phantom{\\Bigg|}∫0−9​(f(x)+2)dx?​",
+    "−8-8−8"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 4, to, 0, of, f,  of, x, d, x, equals, minus, 1∫−40f(x) dx=−1\\displaystyle \\int_{-4}^{0}f(x)\\,dx =-1∫−40​f(x)dx=−1 and integral, from, 0, to, 5, of, f,  of, x, d, x, equals, 6, .∫05f(x) dx=6.\\displaystyle \\int_{0}^{5}f(x)\\,dx =6. ∫05​f(x)dx=6. What is the value of integral, from, 5, to, minus, 4, of, f,  of, x, d, x, question mark∫5−4f(x) dx?∣\\displaystyle \\int_{5}^{-4}f(x)\\,dx ?\\phantom{\\Bigg|}∫5−4​f(x)dx?​",
+    "Final answer: −5\\text{Final answer: }-5Final answer: −5"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 5, to, 7, of, f,  of, x, d, x, equals, 2∫57f(x) dx=2\\displaystyle \\int_{5}^{7}f(x)\\,dx =2∫57​f(x)dx=2 and integral, from, minus, 10, to, 7, of, f,  of, x, d, x, equals, 9, .∫−107f(x) dx=9.\\displaystyle \\int_{-10}^{7}f(x)\\,dx =9. ∫−107​f(x)dx=9. What is the value of integral, from, 5, to, minus, 10, of, 4, f,  of, x, d, x, question mark∫5−104f(x) dx?∣\\displaystyle \\int_{5}^{-10}4f(x)\\,dx ?\\phantom{\\Bigg|}∫5−10​4f(x)dx?​",
+    "−28-28−28"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 3, to, 6, of, f,  of, x, d, x, equals, 10∫36f(x) dx=10\\displaystyle \\int_{3}^{6}f(x)\\,dx =10∫36​f(x)dx=10 and integral, from, minus, 8, to, 6, of, f,  of, x, d, x, equals, 1, .∫−86f(x) dx=1.\\displaystyle \\int_{-8}^{6}f(x)\\,dx =1. ∫−86​f(x)dx=1. What is the value of integral, from, 3, to, minus, 8, of, f,  of, x, d, x, question mark∫3−8f(x) dx?∣\\displaystyle \\int_{3}^{-8}f(x)\\,dx ?\\phantom{\\Bigg|}∫3−8​f(x)dx?​",
+    "Final answer: 9\\text{Final answer: }9Final answer: 9"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 3, to, 6, of, f,  of, x, d, x, equals, 10∫36f(x) dx=10\\displaystyle \\int_{3}^{6}f(x)\\,dx =10∫36​f(x)dx=10 and integral, from, minus, 8, to, 6, of, f,  of, x, d, x, equals, 1, .∫−86f(x) dx=1.\\displaystyle \\int_{-8}^{6}f(x)\\,dx =1. ∫−86​f(x)dx=1. What is the value of integral, from, 3, to, minus, 8, of, f,  of, x, d, x, question mark∫3−8f(x) dx?∣\\displaystyle \\int_{3}^{-8}f(x)\\,dx ?\\phantom{\\Bigg|}∫3−8​f(x)dx?​",
+    "Final answer: −5\\text{Final answer: }-5Final answer: −5"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 1, to, 9, of, f,  of, x, d, x, equals, 7∫−19f(x) dx=7\\displaystyle \\int_{-1}^{9}f(x)\\,dx =7∫−19​f(x)dx=7 and integral, from, minus, 1, to, 5, of, f,  of, x, d, x, equals, 3, .∫−15f(x) dx=3.\\displaystyle \\int_{-1}^{5}f(x)\\,dx =3. ∫−15​f(x)dx=3. What is the value of integral, from, 5, to, 9, of, left bracket, f,  of, x, minus, 4, right bracket, d, x, question mark∫59(f(x)−4) dx?∣\\displaystyle \\int_{5}^{9}\\big(f(x)-4\\big)\\,dx ?\\phantom{\\Bigg|}∫59​(f(x)−4)dx?​",
+    "−12-12−12"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 5, to, 2, of, f,  of, x, d, x, equals, minus, 10∫52f(x) dx=−10\\displaystyle \\int_{5}^{2}f(x)\\,dx =-10∫52​f(x)dx=−10 and integral, from, minus, 2, to, 5, of, f,  of, x, d, x, equals, 9, .∫−25f(x) dx=9.\\displaystyle \\int_{-2}^{5}f(x)\\,dx =9. ∫−25​f(x)dx=9. What is the value of integral, from, minus, 2, to, 2, of, left bracket, f,  of, x, plus, 3, right bracket, d, x, question mark∫−22(f(x)+3) dx?∣\\displaystyle \\int_{-2}^{2}\\big(f(x)+3\\big)\\,dx ?\\phantom{\\Bigg|}∫−22​(f(x)+3)dx?​",
+    "111"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 2, to, 9, of, f,  of, x, d, x, equals, minus, 7∫−29f(x) dx=−7\\displaystyle \\int_{-2}^{9}f(x)\\,dx =-7∫−29​f(x)dx=−7 and integral, from, 9, to, 10, of, f,  of, x, d, x, equals, minus, 3, .∫910f(x) dx=−3.\\displaystyle \\int_{9}^{10}f(x)\\,dx =-3. ∫910​f(x)dx=−3. What is the value of integral, from, minus, 2, to, 10, of, left bracket, f,  of, x, plus, 2, right bracket, d, x, question mark∫−210(f(x)+2) dx?∣\\displaystyle \\int_{-2}^{10}\\big(f(x)+2\\big)\\,dx ?\\phantom{\\Bigg|}∫−210​(f(x)+2)dx?​",
+    "14"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 4, to, 8, of, f,  of, x, d, x, equals, 5∫48f(x) dx=5\\displaystyle \\int_{4}^{8}f(x)\\,dx =5∫48​f(x)dx=5 and integral, from, 6, to, 4, of, f,  of, x, d, x, equals, minus, 7, .∫64f(x) dx=−7.\\displaystyle \\int_{6}^{4}f(x)\\,dx =-7. ∫64​f(x)dx=−7. What is the value of integral, from, 6, to, 8, of, f,  of, x, d, x, question mark∫68f(x) dx?∣\\displaystyle \\int_{6}^{8}f(x)\\,dx ?\\phantom{\\Bigg|}∫68​f(x)dx?​",
+    "Final answer: −2\\text{Final answer: }-2Final answer: −2"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 2, to, 1, of, f,  of, x, d, x, equals, minus, 4∫−21f(x) dx=−4\\displaystyle \\int_{-2}^{1}f(x)\\,dx =-4∫−21​f(x)dx=−4 and integral, from, 1, to, 3, of, f,  of, x, d, x, equals, 9, .∫13f(x) dx=9.\\displaystyle \\int_{1}^{3}f(x)\\,dx =9. ∫13​f(x)dx=9. What is the value of integral, from, 3, to, minus, 2, of, f,  of, x, d, x, question mark∫3−2f(x) dx?∣\\displaystyle \\int_{3}^{-2}f(x)\\,dx ?\\phantom{\\Bigg|}∫3−2​f(x)dx?​",
+    "Final answer: −5\\text{Final answer: }-5Final answer: −5"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 3, to, 6, of, f,  of, x, d, x, equals, 11∫−36f(x) dx=11\\displaystyle \\int_{-3}^{6}f(x)\\,dx =11∫−36​f(x)dx=11 and integral, from, 4, to, minus, 3, of, f,  of, x, d, x, equals, minus, 4, .∫4−3f(x) dx=−4.\\displaystyle \\int_{4}^{-3}f(x)\\,dx =-4. ∫4−3​f(x)dx=−4. What is the value of integral, from, 4, to, 6, of, left bracket, f,  of, x, minus, 5, right bracket, d, x, question mark∫46(f(x)−5) dx?∣\\displaystyle \\int_{4}^{6}\\big(f(x)-5\\big)\\,dx ?\\phantom{\\Bigg|}∫46​(f(x)−5)dx?​",
+    "−3-3−3"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 3, to, 6, of, f,  of, x, d, x, equals, 4∫36f(x) dx=4\\displaystyle \\int_{3}^{6}f(x)\\,dx =4∫36​f(x)dx=4 and integral, from, minus, 2, to, 6, of, f,  of, x, d, x, equals, 14, .∫−26f(x) dx=14.\\displaystyle \\int_{-2}^{6}f(x)\\,dx =14. ∫−26​f(x)dx=14. What is the value of integral, from, 3, to, minus, 2, of, left bracket, f,  of, x, plus, 1, right bracket, d, x, question mark∫3−2(f(x)+1) dx?∣\\displaystyle \\int_{3}^{-2}\\big(f(x)+1\\big)\\,dx ?\\phantom{\\Bigg|}∫3−2​(f(x)+1)dx?​",
+    "−15-15−15"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 8, to, 9, of, f,  of, x, d, x, equals, 6∫−89f(x) dx=6\\displaystyle \\int_{-8}^{9}f(x)\\,dx =6∫−89​f(x)dx=6 and integral, from, minus, 2, to, minus, 8, of, f,  of, x, d, x, equals, minus, 4, .∫−2−8f(x) dx=−4.\\displaystyle \\int_{-2}^{-8}f(x)\\,dx =-4. ∫−2−8​f(x)dx=−4. What is the value of integral, from, minus, 2, to, 9, of, f,  of, x, d, x, question mark∫−29f(x) dx?∣\\displaystyle \\int_{-2}^{9}f(x)\\,dx ?\\phantom{\\Bigg|}∫−29​f(x)dx?​",
+    "0"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 7, to, 9, of, f,  of, x, d, x, equals, minus, 4∫79f(x) dx=−4\\displaystyle \\int_{7}^{9}f(x)\\,dx =-4∫79​f(x)dx=−4 and integral, from, 6, to, 9, of, f,  of, x, d, x, equals, minus, 14, .∫69f(x) dx=−14.\\displaystyle \\int_{6}^{9}f(x)\\,dx =-14. ∫69​f(x)dx=−14. What is the value of integral, from, 6, to, 7, of, one half, f,  of, x, d, x, question mark∫6712f(x) dx?∣\\displaystyle \\int_{6}^{7}\\frac{1}{2}f(x)\\,dx ?\\phantom{\\Bigg|}∫67​21​f(x)dx?​",
+    "−5-5−5"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 7, to, 0, of, f,  of, x, d, x, equals, 5∫70f(x) dx=5\\displaystyle \\int_{7}^{0}f(x)\\,dx =5∫70​f(x)dx=5 and integral, from, 7, to, 9, of, f,  of, x, d, x, equals, 3, .∫79f(x) dx=3.\\displaystyle \\int_{7}^{9}f(x)\\,dx =3. ∫79​f(x)dx=3. What is the value of integral, from, 0, to, 9, of, 4, f,  of, x, d, x, question mark∫094f(x) dx?∣\\displaystyle \\int_{0}^{9}4f(x)\\,dx ?\\phantom{\\Bigg|}∫09​4f(x)dx?​",
+    "−8-8−8"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 1, to, 4, of, f,  of, x, d, x, equals, minus, 4∫−14f(x) dx=−4\\displaystyle \\int_{-1}^{4}f(x)\\,dx =-4∫−14​f(x)dx=−4 and integral, from, minus, 3, to, 4, of, f,  of, x, d, x, equals, minus, 3, .∫−34f(x) dx=−3.\\displaystyle \\int_{-3}^{4}f(x)\\,dx =-3. ∫−34​f(x)dx=−3. What is the value of integral, from, minus, 1, to, minus, 3, of, f,  of, x, d, x, question mark∫−1−3f(x) dx?∣\\displaystyle \\int_{-1}^{-3}f(x)\\,dx ?\\phantom{\\Bigg|}∫−1−3​f(x)dx?​",
+    "Final answer: 9\\text{Final answer: }9Final answer: 9"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 4, to, 6, of, f,  of, x, d, x, equals, minus, 2∫46f(x) dx=−2\\displaystyle \\int_{4}^{6}f(x)\\,dx =-2∫46​f(x)dx=−2 and integral, from, minus, 9, to, 6, of, f,  of, x, d, x, equals, minus, 3, .∫−96f(x) dx=−3.\\displaystyle \\int_{-9}^{6}f(x)\\,dx =-3. ∫−96​f(x)dx=−3. What is the value of integral, from, 4, to, minus, 9, of, f,  of, x, d, x, question mark∫4−9f(x) dx?∣\\displaystyle \\int_{4}^{-9}f(x)\\,dx ?\\phantom{\\Bigg|}∫4−9​f(x)dx?​",
+    "Final answer: 1\\text{Final answer: }1Final answer: 1"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 3, to, 9, of, f,  of, x, d, x, equals, 19∫39f(x) dx=19\\displaystyle \\int_{3}^{9}f(x)\\,dx =19∫39​f(x)dx=19 and integral, from, 3, to, 8, of, f,  of, x, d, x, equals, 10, .∫38f(x) dx=10.\\displaystyle \\int_{3}^{8}f(x)\\,dx =10. ∫38​f(x)dx=10. What is the value of integral, from, 9, to, 8, of, left bracket, f,  of, x, plus, 2, right bracket, d, x, question mark∫98(f(x)+2) dx?∣\\displaystyle \\int_{9}^{8}\\big(f(x)+2\\big)\\,dx ?\\phantom{\\Bigg|}∫98​(f(x)+2)dx?​",
+    "−1-1−1"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 0, to, 9, of, f,  of, x, d, x, equals, minus, 11∫09f(x) dx=−11\\displaystyle \\int_{0}^{9}f(x)\\,dx =-11∫09​f(x)dx=−11 and integral, from, 8, to, 0, of, f,  of, x, d, x, equals, 2, .∫80f(x) dx=2.\\displaystyle \\int_{8}^{0}f(x)\\,dx =2. ∫80​f(x)dx=2. What is the value of integral, from, 8, to, 9, of, f,  of, x, d, x, question mark∫89f(x) dx?∣\\displaystyle \\int_{8}^{9}f(x)\\,dx ?\\phantom{\\Bigg|}∫89​f(x)dx?​",
+    "Final answer: −9\\text{Final answer: }-9Final answer: −9"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 1, to, 10, of, f,  of, x, d, x, equals, minus, 2∫−110f(x) dx=−2\\displaystyle \\int_{-1}^{10}f(x)\\,dx =-2∫−110​f(x)dx=−2 and integral, from, 5, to, minus, 1, of, f,  of, x, d, x, equals, minus, 3, .∫5−1f(x) dx=−3.\\displaystyle \\int_{5}^{-1}f(x)\\,dx =-3. ∫5−1​f(x)dx=−3. What is the value of integral, from, 5, to, 10, of, 4, f,  of, x, d, x, question mark∫5104f(x) dx?∣\\displaystyle \\int_{5}^{10}4f(x)\\,dx ?\\phantom{\\Bigg|}∫510​4f(x)dx?​",
+    "−20-20−20"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 8, to, 2, of, f,  of, x, d, x, equals, 8∫−82f(x) dx=8\\displaystyle \\int_{-8}^{2}f(x)\\,dx =8∫−82​f(x)dx=8 and integral, from, 1, to, minus, 8, of, f,  of, x, d, x, equals, minus, 3, .∫1−8f(x) dx=−3.\\displaystyle \\int_{1}^{-8}f(x)\\,dx =-3. ∫1−8​f(x)dx=−3. What is the value of integral, from, 1, to, 2, of, 3, f,  of, x, d, x, question mark∫123f(x) dx?∣\\displaystyle \\int_{1}^{2}3f(x)\\,dx ?\\phantom{\\Bigg|}∫12​3f(x)dx?​",
+    "15"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 4, to, 8, of, f,  of, x, d, x, equals, minus, 3∫−48f(x) dx=−3\\displaystyle \\int_{-4}^{8}f(x)\\,dx =-3∫−48​f(x)dx=−3 and integral, from, minus, 1, to, minus, 4, of, f,  of, x, d, x, equals, minus, 3, .∫−1−4f(x) dx=−3.\\displaystyle \\int_{-1}^{-4}f(x)\\,dx =-3. ∫−1−4​f(x)dx=−3. What is the value of integral, from, minus, 1, to, 8, of, f,  of, x, d, x, question mark∫−18f(x) dx?∣\\displaystyle \\int_{-1}^{8}f(x)\\,dx ?\\phantom{\\Bigg|}∫−18​f(x)dx?​",
+    "Final answer: −6\\text{Final answer: }-6Final answer: −6"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 9, to, minus, 1, of, f,  of, x, d, x, equals, minus, 1∫9−1f(x) dx=−1\\displaystyle \\int_{9}^{-1}f(x)\\,dx =-1∫9−1​f(x)dx=−1 and integral, from, 9, to, 10, of, f,  of, x, d, x, equals, 3, .∫910f(x) dx=3.\\displaystyle \\int_{9}^{10}f(x)\\,dx =3. ∫910​f(x)dx=3. What is the value of integral, from, minus, 1, to, 10, of, f,  of, x, d, x, question mark∫−110f(x) dx?∣\\displaystyle \\int_{-1}^{10}f(x)\\,dx ?\\phantom{\\Bigg|}∫−110​f(x)dx?​",
+    "Final answer: 4\\text{Final answer: }4Final answer: 4"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 9, to, 8, of, f,  of, x, d, x, equals, 5∫−98f(x) dx=5\\displaystyle \\int_{-9}^{8}f(x)\\,dx =5∫−98​f(x)dx=5 and integral, from, 4, to, minus, 9, of, f,  of, x, d, x, equals, minus, 2, .∫4−9f(x) dx=−2.\\displaystyle \\int_{4}^{-9}f(x)\\,dx =-2. ∫4−9​f(x)dx=−2. What is the value of integral, from, 4, to, 8, of, 3, f,  of, x, d, x, question mark∫483f(x) dx?∣\\displaystyle \\int_{4}^{8}3f(x)\\,dx ?\\phantom{\\Bigg|}∫48​3f(x)dx?​",
+    "16"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 1, to, 2, of, f,  of, x, d, x, equals, 8∫−12f(x) dx=8\\displaystyle \\int_{-1}^{2}f(x)\\,dx =8∫−12​f(x)dx=8 and integral, from, minus, 3, to, 2, of, f,  of, x, d, x, equals, 10, .∫−32f(x) dx=10.\\displaystyle \\int_{-3}^{2}f(x)\\,dx =10. ∫−32​f(x)dx=10. What is the value of integral, from, minus, 1, to, minus, 3, of, left bracket, f,  of, x, plus, 4, right bracket, d, x, question mark∫−1−3(f(x)+4) dx?∣\\displaystyle \\int_{-1}^{-3}\\big(f(x)+4\\big)\\,dx ?\\phantom{\\Bigg|}∫−1−3​(f(x)+4)dx?​",
+    "−10-10−10"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 3, to, 6, of, f,  of, x, d, x, equals, 2∫36f(x) dx=2\\displaystyle \\int_{3}^{6}f(x)\\,dx =2∫36​f(x)dx=2 and integral, from, 6, to, 8, of, f,  of, x, d, x, equals, 4, .∫68f(x) dx=4.\\displaystyle \\int_{6}^{8}f(x)\\,dx =4. ∫68​f(x)dx=4. What is the value of integral, from, 8, to, 3, of, f,  of, x, d, x, question mark∫83f(x) dx?∣\\displaystyle \\int_{8}^{3}f(x)\\,dx ?\\phantom{\\Bigg|}∫83​f(x)dx?​",
+    "Final answer: 5\\text{Final answer: }5Final answer: 5"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 2, to, 10, of, f,  of, x, d, x, equals, 3∫210f(x) dx=3\\displaystyle \\int_{2}^{10}f(x)\\,dx =3∫210​f(x)dx=3 and integral, from, minus, 3, to, 10, of, f,  of, x, d, x, equals, 8, .∫−310f(x) dx=8.\\displaystyle \\int_{-3}^{10}f(x)\\,dx =8. ∫−310​f(x)dx=8. What is the value of integral, from, 2, to, minus, 3, of, one third, f,  of, x, d, x, question mark∫2−313f(x) dx?∣\\displaystyle \\int_{2}^{-3}\\frac{1}{3}f(x)\\,dx ?\\phantom{\\Bigg|}∫2−3​31​f(x)dx?​",
+    "−53-\\frac{5}{3}−35​"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 3, to, 7, of, f,  of, x, d, x, equals, 3∫37f(x) dx=3\\displaystyle \\int_{3}^{7}f(x)\\,dx =3∫37​f(x)dx=3 and integral, from, 0, to, 7, of, f,  of, x, d, x, equals, 8, .∫07f(x) dx=8.\\displaystyle \\int_{0}^{7}f(x)\\,dx =8. ∫07​f(x)dx=8. What is the value of integral, from, 3, to, 0, of, left bracket, f,  of, x, plus, 3, right bracket, d, x, question mark∫30(f(x)+3) dx?∣\\displaystyle \\int_{3}^{0}\\big(f(x)+3\\big)\\,dx ?\\phantom{\\Bigg|}∫30​(f(x)+3)dx?​",
+    "−14-14−14"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 5, to, minus, 3, of, f,  of, x, d, x, equals, 10∫5−3f(x) dx=10\\displaystyle \\int_{5}^{-3}f(x)\\,dx =10∫5−3​f(x)dx=10 and integral, from, 5, to, 7, of, f,  of, x, d, x, equals, 2, .∫57f(x) dx=2.\\displaystyle \\int_{5}^{7}f(x)\\,dx =2. ∫57​f(x)dx=2. What is the value of integral, from, minus, 3, to, 7, of, one quarter, f,  of, x, d, x, question mark∫−3714f(x) dx?∣\\displaystyle \\int_{-3}^{7}\\frac{1}{4}f(x)\\,dx ?\\phantom{\\Bigg|}∫−37​41​f(x)dx?​",
+    "Final answer: 3\\text{Final answer: }3Final answer: 3"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 0, to, 9, of, f,  of, x, d, x, equals, minus, 11∫09f(x) dx=−11\\displaystyle \\int_{0}^{9}f(x)\\,dx =-11∫09​f(x)dx=−11 and integral, from, 8, to, 0, of, f,  of, x, d, x, equals, 2, .∫80f(x) dx=2.\\displaystyle \\int_{8}^{0}f(x)\\,dx =2. ∫80​f(x)dx=2. What is the value of integral, from, 8, to, 9, of, f,  of, x, d, x, question mark∫89f(x) dx?∣\\displaystyle \\int_{8}^{9}f(x)\\,dx ?\\phantom{\\Bigg|}∫89​f(x)dx?​",
+    "−14-14−14"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 8, to, 3, of, f,  of, x, d, x, equals, minus, 2∫83f(x) dx=−2\\displaystyle \\int_{8}^{3}f(x)\\,dx =-2∫83​f(x)dx=−2 and integral, from, 8, to, 10, of, f,  of, x, d, x, equals, 10, .∫810f(x) dx=10.\\displaystyle \\int_{8}^{10}f(x)\\,dx =10. ∫810​f(x)dx=10. What is the value of integral, from, 3, to, 10, of, f,  of, x, d, x, question mark∫310f(x) dx?∣\\displaystyle \\int_{3}^{10}f(x)\\,dx ?\\phantom{\\Bigg|}∫310​f(x)dx?​",
+    "Final answer: 12\\text{Final answer: }12Final answer: 12"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 4, to, 8, of, f,  of, x, d, x, equals, minus, 6∫48f(x) dx=−6\\displaystyle \\int_{4}^{8}f(x)\\,dx =-6∫48​f(x)dx=−6 and integral, from, 7, to, 4, of, f,  of, x, d, x, equals, minus, 4, .∫74f(x) dx=−4.\\displaystyle \\int_{7}^{4}f(x)\\,dx =-4. ∫74​f(x)dx=−4. What is the value of integral, from, 7, to, 8, of, f,  of, x, d, x, question mark∫78f(x) dx?∣\\displaystyle \\int_{7}^{8}f(x)\\,dx ?\\phantom{\\Bigg|}∫78​f(x)dx?​",
+    "Final answer: −10\\text{Final answer: }-10Final answer: −10"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 1, to, minus, 5, of, f,  of, x, d, x, equals, minus, 9∫−1−5f(x) dx=−9\\displaystyle \\int_{-1}^{-5}f(x)\\,dx =-9∫−1−5​f(x)dx=−9 and integral, from, minus, 1, to, 2, of, f,  of, x, d, x, equals, 6, .∫−12f(x) dx=6.\\displaystyle \\int_{-1}^{2}f(x)\\,dx =6. ∫−12​f(x)dx=6. What is the value of integral, from, minus, 5, to, 2, of, 4, f,  of, x, d, x, question mark∫−524f(x) dx?∣\\displaystyle \\int_{-5}^{2}4f(x)\\,dx ?\\phantom{\\Bigg|}∫−52​4f(x)dx?​",
+    "60"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 7, to, 1, of, f,  of, x, d, x, equals, minus, 2∫71f(x) dx=−2\\displaystyle \\int_{7}^{1}f(x)\\,dx =-2∫71​f(x)dx=−2 and integral, from, 7, to, 10, of, f,  of, x, d, x, equals, 3, .∫710f(x) dx=3.\\displaystyle \\int_{7}^{10}f(x)\\,dx =3. ∫710​f(x)dx=3. What is the value of integral, from, 1, to, 10, of, left bracket, f,  of, x, minus, 5, right bracket, d, x, question mark∫110(f(x)−5) dx?∣\\displaystyle \\int_{1}^{10}\\big(f(x)-5\\big)\\,dx ?\\phantom{\\Bigg|}∫110​(f(x)−5)dx?​",
+    "−40-40−40"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 2, to, 10, of, f,  of, x, d, x, equals, minus, 7∫210f(x) dx=−7\\displaystyle \\int_{2}^{10}f(x)\\,dx =-7∫210​f(x)dx=−7 and integral, from, minus, 4, to, 10, of, f,  of, x, d, x, equals, minus, 8, .∫−410f(x) dx=−8.\\displaystyle \\int_{-4}^{10}f(x)\\,dx =-8. ∫−410​f(x)dx=−8. What is the value of integral, from, 2, to, minus, 4, of, f,  of, x, d, x, question mark∫2−4f(x) dx?∣\\displaystyle \\int_{2}^{-4}f(x)\\,dx ?\\phantom{\\Bigg|}∫2−4​f(x)dx?​",
+    "13"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, minus, 8, to, 7, of, f,  of, x, d, x, equals, minus, 3∫−87f(x) dx=−3\\displaystyle \\int_{-8}^{7}f(x)\\,dx =-3∫−87​f(x)dx=−3 and integral, from, minus, 3, to, minus, 8, of, f,  of, x, d, x, equals, minus, 2, .∫−3−8f(x) dx=−2.\\displaystyle \\int_{-3}^{-8}f(x)\\,dx =-2. ∫−3−8​f(x)dx=−2. What is the value of integral, from, minus, 3, to, 7, of, left bracket, f,  of, x, plus, 3, right bracket, d, x, question mark∫−37(f(x)+3) dx?∣\\displaystyle \\int_{-3}^{7}\\big(f(x)+3\\big)\\,dx ?\\phantom{\\Bigg|}∫−37​(f(x)+3)dx?​",
+    "25"
+  ],
+  [
+    "Let ffff be a continuous function such that integral, from, 2, to, 0, of, f,  of, x, d, x, equals, minus, 1∫20f(x) dx=−1\\displaystyle \\int_{2}^{0}f(x)\\,dx =-1∫20​f(x)dx=−1 and integral, from, 2, to, 4, of, f,  of, x, d, x, equals, 3, .∫24f(x) dx=3.\\displaystyle \\int_{2}^{4}f(x)\\,dx =3. ∫24​f(x)dx=3. What is the value of integral, from, 0, to, 4, of, left bracket, f,  of, x, minus, 1, right bracket, d, x, question mark∫04(f(x)−1) dx?∣\\displaystyle \\int_{0}^{4}\\big(f(x)-1\\big)\\,dx ?\\phantom{\\Bigg|}∫04​(f(x)−1)dx?​",
+    "0"
+  ]
+]
