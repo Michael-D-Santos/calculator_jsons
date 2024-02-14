@@ -189,7 +189,7 @@
   ],
   [
     "Let ffff be a continuous function such that integral, from, 0, to, 9, of, f,  of, x, d, x, equals, minus, 11∫09f(x) dx=−11\\displaystyle \\int_{0}^{9}f(x)\\,dx =-11∫09​f(x)dx=−11 and integral, from, 8, to, 0, of, f,  of, x, d, x, equals, 2, .∫80f(x) dx=2.\\displaystyle \\int_{8}^{0}f(x)\\,dx =2. ∫80​f(x)dx=2. What is the value of integral, from, 8, to, 9, of, f,  of, x, d, x, question mark∫89f(x) dx?∣\\displaystyle \\int_{8}^{9}f(x)\\,dx ?\\phantom{\\Bigg|}∫89​f(x)dx?​",
-    "−20-20−20"
+    "−9"
   ],
   [
     "Let ffff be a continuous function such that integral, from, minus, 2, to, 8, of, f,  of, x, d, x, equals, 6∫−28f(x) dx=6\\displaystyle \\int_{-2}^{8}f(x)\\,dx =6∫−28​f(x)dx=6 and integral, from, minus, 2, to, 5, of, f,  of, x, d, x, equals, 1, .∫−25f(x) dx=1.\\displaystyle \\int_{-2}^{5}f(x)\\,dx =1. ∫−25​f(x)dx=1. What is the value of integral, from, 8, to, 5, of, 3, f,  of, x, d, x, question mark∫853f(x) dx?∣\\displaystyle \\int_{8}^{5}3f(x)\\,dx ?\\phantom{\\Bigg|}∫85​3f(x)dx?​",
