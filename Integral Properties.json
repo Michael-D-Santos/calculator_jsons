@@ -8,6 +8,10 @@
     "−4-4−4"
   ],
   [
+    "Let ffff be a continuous function such that integral, from, 6, to, 0, of, f,  of, x, d, x, equals, 5∫60f(x) dx=5\\displaystyle \\int_{6}^{0}f(x)\\,dx =5∫60​f(x)dx=5 and integral, from, 6, to, 10, of, f,  of, x, d, x, equals, minus, 1, .∫610f(x) dx=−1.\\displaystyle \\int_{6}^{10}f(x)\\,dx =-1. ∫610​f(x)dx=−1. What is the value of integral, from, 0, to, 10, of, one quarter, f,  of, x, d, x, question mark∫01014f(x) dx?∣\\displaystyle \\int_{0}^{10}\\frac{1}{4}f(x)\\,dx ?\\phantom{\\Bigg|}∫010​41​f(x)dx?​",
+    "−32-\\frac{3}{2}−23​"
+  ],
+  [
     "Let ffff be a continuous function such that integral, from, minus, 3, to, 4, of, f,  of, x, d, x, equals, minus, 7∫−34f(x) dx=−7\\displaystyle \\int_{-3}^{4}f(x)\\,dx =-7∫−34​f(x)dx=−7 and integral, from, 4, to, 9, of, f,  of, x, d, x, equals, 4, .∫49f(x) dx=4.\\displaystyle \\int_{4}^{9}f(x)\\,dx =4. ∫49​f(x)dx=4. What is the value of integral, from, 9, to, minus, 3, of, one half, f,  of, x, d, x, question mark∫9−312f(x) dx?∣\\displaystyle \\int_{9}^{-3}\\frac{1}{2}f(x)\\,dx ?\\phantom{\\Bigg|}∫9−3​21​f(x)dx?​",
     "32\\frac{3}{2}23​"
   ],
