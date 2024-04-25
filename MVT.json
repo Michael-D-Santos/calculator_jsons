@@ -1,0 +1,898 @@
+[
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 0, comma, 2, close square bracket[0,2][0, 2][0,2] and differentiable on the open interval left bracket, 0, comma, 2, right bracket, .(0,2).(0, 2).(0,2).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 0, comma, 2, right bracket(0,2)(0, 2)(0,2) such that f, prime,  of, c, equals, minus, 6, .f′(c)=−6.f'(c)=-6.f′(c)=−6.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 0, comma, 2, close square bracket[0,2][0, 2][0,2] and differentiable on the open interval left bracket, 0, comma, 2, right bracket, .(0,2).(0, 2).(0,2).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 0, comma, 2, right bracket(0,2)(0, 2)(0,2) such that f, prime,  of, c, equals, minus, 6, .f′(c)=−6.f'(c)=-6.f′(c)=−6.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 0, comma, 2, close square bracket[0,2][0, 2][0,2] and differentiable on the open interval left bracket, 0, comma, 2, right bracket, .(0,2).(0, 2).(0,2).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 0, comma, 2, right bracket(0,2)(0, 2)(0,2) such that f, prime,  of, c, equals, minus, 6, .f′(c)=−6.f'(c)=-6.f′(c)=−6.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 0, comma, 2, close square bracket[0,2][0, 2][0,2] and differentiable on the open interval left bracket, 0, comma, 2, right bracket, .(0,2).(0, 2).(0,2).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 0, comma, 2, right bracket(0,2)(0, 2)(0,2) such that f, prime,  of, c, equals, minus, 6, .f′(c)=−6.f'(c)=-6.f′(c)=−6.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval minus, 2, is less than, x, is less than, 2, .−2<x<2.-2 < x < 2.−2<x<2.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 2, is less than, x, is less than, 2−2<x<2-2 < x < 2−2<x<2 such that f, prime,  of, c, equals, 4, .f′(c)=4.f'(c)=4.f′(c)=4.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval minus, 2, is less than, x, is less than, 2, .−2<x<2.-2 < x < 2.−2<x<2.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 2, is less than, x, is less than, 2−2<x<2-2 < x < 2−2<x<2 such that f, prime,  of, c, equals, 4, .f′(c)=4.f'(c)=4.f′(c)=4.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval left bracket, minus, 3, comma, 1, right bracket, .(−3,1).(-3, 1).(−3,1). Also, there does not exist a value cccc in the open interval left bracket, minus, 3, comma, 1, right bracket(−3,1)(-3, 1)(−3,1) such that f, prime,  of, c, equals, minus, 4, .f′(c)=−4.f'(c)=-4.f′(c)=−4. Determine the validity of the following statement: The function ffff is continuous on the closed interval open square bracket, minus, 3, comma, 1, close square bracket, .[−3,1].[-3, 1].[−3,1].",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval left bracket, minus, 3, comma, 1, right bracket, .(−3,1).(-3, 1).(−3,1). Also, there does not exist a value cccc in the open interval left bracket, minus, 3, comma, 1, right bracket(−3,1)(-3, 1)(−3,1) such that f, prime,  of, c, equals, minus, 4, .f′(c)=−4.f'(c)=-4.f′(c)=−4. Determine the validity of the following statement: The function ffff is continuous on the closed interval open square bracket, minus, 3, comma, 1, close square bracket, .[−3,1].[-3, 1].[−3,1].",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 3, is less than or equal to, x, is less than or equal to, 93≤x≤93\\le x \\le 93≤x≤9 and differentiable on the open interval 3, is less than, x, is less than, 9, .3<x<9.3 < x < 9.3<x<9.  Determine the validity of the following statement: There exists a value cccc in the open interval 3, is less than, x, is less than, 93<x<93 < x < 93<x<9 such that f, prime,  of, c, equals, minus, one half, .f′(c)=−12.f'(c)=-\\frac{1}{2}.f′(c)=−21​.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 3, is less than or equal to, x, is less than or equal to, 93≤x≤93\\le x \\le 93≤x≤9 and differentiable on the open interval 3, is less than, x, is less than, 9, .3<x<9.3 < x < 9.3<x<9.  Determine the validity of the following statement: There exists a value cccc in the open interval 3, is less than, x, is less than, 93<x<93 < x < 93<x<9 such that f, prime,  of, c, equals, minus, one half, .f′(c)=−12.f'(c)=-\\frac{1}{2}.f′(c)=−21​.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval 1, is less than, x, is less than, 5, .1<x<5.1 < x < 5.1<x<5. Also, there does not exist a value cccc in the open interval 1, is less than, x, is less than, 51<x<51 < x < 51<x<5 such that f, prime,  of, c, equals, minus, 4, .f′(c)=−4.f'(c)=-4.f′(c)=−4. Determine the validity of the following statement: The function ffff is continuous on the closed interval 1, is less than or equal to, x, is less than or equal to, 5, .1≤x≤5.1\\le x \\le 5.1≤x≤5.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval 1, is less than, x, is less than, 5, .1<x<5.1 < x < 5.1<x<5. Also, there does not exist a value cccc in the open interval 1, is less than, x, is less than, 51<x<51 < x < 51<x<5 such that f, prime,  of, c, equals, minus, 4, .f′(c)=−4.f'(c)=-4.f′(c)=−4. Determine the validity of the following statement: The function ffff is continuous on the closed interval 1, is less than or equal to, x, is less than or equal to, 5, .1≤x≤5.1\\le x \\le 5.1≤x≤5.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 2, comma, 4, close square bracket, .[−2,4].[-2, 4].[−2,4]. Also, there does not exist a value cccc in the open interval left bracket, minus, 2, comma, 4, right bracket(−2,4)(-2, 4)(−2,4) such that f, prime,  of, c, equals, start fraction, 7, divided by, 2, end fraction, .f′(c)=72.f'(c)=\\frac{7}{2}.f′(c)=27​. Determine the validity of the following statement: The function ffff is differentiable on the open interval left bracket, minus, 2, comma, 4, right bracket, .(−2,4).(-2, 4).(−2,4).",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 2, comma, 4, close square bracket, .[−2,4].[-2, 4].[−2,4]. Also, there does not exist a value cccc in the open interval left bracket, minus, 2, comma, 4, right bracket(−2,4)(-2, 4)(−2,4) such that f, prime,  of, c, equals, start fraction, 7, divided by, 2, end fraction, .f′(c)=72.f'(c)=\\frac{7}{2}.f′(c)=27​. Determine the validity of the following statement: The function ffff is differentiable on the open interval left bracket, minus, 2, comma, 4, right bracket, .(−2,4).(-2, 4).(−2,4).",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval minus, 2, is less than, x, is less than, 2, .−2<x<2.-2 < x < 2.−2<x<2. Also, there does not exist a value cccc in the open interval minus, 2, is less than, x, is less than, 2−2<x<2-2 < x < 2−2<x<2 such that f, prime,  of, c, equals, minus, 3, .f′(c)=−3.f'(c)=-3.f′(c)=−3. Determine the validity of the following statement: The function ffff is continuous on the closed interval minus, 2, is less than or equal to, x, is less than or equal to, 2, .−2≤x≤2.-2\\le x \\le 2.−2≤x≤2.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval minus, 2, is less than, x, is less than, 2, .−2<x<2.-2 < x < 2.−2<x<2. Also, there does not exist a value cccc in the open interval minus, 2, is less than, x, is less than, 2−2<x<2-2 < x < 2−2<x<2 such that f, prime,  of, c, equals, minus, 3, .f′(c)=−3.f'(c)=-3.f′(c)=−3. Determine the validity of the following statement: The function ffff is continuous on the closed interval minus, 2, is less than or equal to, x, is less than or equal to, 2, .−2≤x≤2.-2\\le x \\le 2.−2≤x≤2.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 3, is less than or equal to, x, is less than or equal to, 1−3≤x≤1-3\\le x \\le 1−3≤x≤1 and differentiable on the open interval minus, 3, is less than, x, is less than, 1, .−3<x<1.-3 < x < 1.−3<x<1.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 3, is less than, x, is less than, 1−3<x<1-3 < x < 1−3<x<1 such that f, prime,  of, c, equals, minus, start fraction, 7, divided by, 4, end fraction, .f′(c)=−74.f'(c)=-\\frac{7}{4}.f′(c)=−47​.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 3, is less than or equal to, x, is less than or equal to, 1−3≤x≤1-3\\le x \\le 1−3≤x≤1 and differentiable on the open interval minus, 3, is less than, x, is less than, 1, .−3<x<1.-3 < x < 1.−3<x<1.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 3, is less than, x, is less than, 1−3<x<1-3 < x < 1−3<x<1 such that f, prime,  of, c, equals, minus, start fraction, 7, divided by, 4, end fraction, .f′(c)=−74.f'(c)=-\\frac{7}{4}.f′(c)=−47​.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 3, comma, 7, close square bracket[3,7][3, 7][3,7] and differentiable on the open interval left bracket, 3, comma, 7, right bracket, .(3,7).(3, 7).(3,7).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 3, comma, 7, right bracket(3,7)(3, 7)(3,7) such that f, prime,  of, c, equals, minus, 5, .f′(c)=−5.f'(c)=-5.f′(c)=−5.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 3, comma, 7, close square bracket[3,7][3, 7][3,7] and differentiable on the open interval left bracket, 3, comma, 7, right bracket, .(3,7).(3, 7).(3,7).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 3, comma, 7, right bracket(3,7)(3, 7)(3,7) such that f, prime,  of, c, equals, minus, 5, .f′(c)=−5.f'(c)=-5.f′(c)=−5.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 3, comma, 6, close square bracket, .[3,6].[3, 6].[3,6]. Also, there does not exist a value cccc in the open interval left bracket, 3, comma, 6, right bracket(3,6)(3, 6)(3,6) such that f, prime,  of, c, equals, minus, 5, .f′(c)=−5.f'(c)=-5.f′(c)=−5. Determine the validity of the following statement: The function ffff is differentiable on the open interval left bracket, 3, comma, 6, right bracket, .(3,6).(3, 6).(3,6).",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 3, comma, 6, close square bracket, .[3,6].[3, 6].[3,6]. Also, there does not exist a value cccc in the open interval left bracket, 3, comma, 6, right bracket(3,6)(3, 6)(3,6) such that f, prime,  of, c, equals, minus, 5, .f′(c)=−5.f'(c)=-5.f′(c)=−5. Determine the validity of the following statement: The function ffff is differentiable on the open interval left bracket, 3, comma, 6, right bracket, .(3,6).(3, 6).(3,6).",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 2, comma, 3, close square bracket[−2,3][-2, 3][−2,3] and differentiable on the open interval left bracket, minus, 2, comma, 3, right bracket, .(−2,3).(-2, 3).(−2,3).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 2, comma, 3, right bracket(−2,3)(-2, 3)(−2,3) such that f, prime,  of, c, equals, minus, start fraction, 17, divided by, 3, end fraction, .f′(c)=−173.f'(c)=-\\frac{17}{3}.f′(c)=−317​.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 2, comma, 3, close square bracket[−2,3][-2, 3][−2,3] and differentiable on the open interval left bracket, minus, 2, comma, 3, right bracket, .(−2,3).(-2, 3).(−2,3).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 2, comma, 3, right bracket(−2,3)(-2, 3)(−2,3) such that f, prime,  of, c, equals, minus, start fraction, 17, divided by, 3, end fraction, .f′(c)=−173.f'(c)=-\\frac{17}{3}.f′(c)=−317​.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 1, comma, 3, close square bracket[−1,3][-1, 3][−1,3] and differentiable on the open interval left bracket, minus, 1, comma, 3, right bracket, .(−1,3).(-1, 3).(−1,3).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 1, comma, 3, right bracket(−1,3)(-1, 3)(−1,3) such that f, prime,  of, c, equals, 4, .f′(c)=4.f'(c)=4.f′(c)=4.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 1, comma, 3, close square bracket[−1,3][-1, 3][−1,3] and differentiable on the open interval left bracket, minus, 1, comma, 3, right bracket, .(−1,3).(-1, 3).(−1,3).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 1, comma, 3, right bracket(−1,3)(-1, 3)(−1,3) such that f, prime,  of, c, equals, 4, .f′(c)=4.f'(c)=4.f′(c)=4.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 3, comma, 9, close square bracket[3,9][3, 9][3,9] and differentiable on the open interval left bracket, 3, comma, 9, right bracket, .(3,9).(3, 9).(3,9).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 3, comma, 9, right bracket(3,9)(3, 9)(3,9) such that f, prime,  of, c, equals, minus, 3, .f′(c)=−3.f'(c)=-3.f′(c)=−3.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 3, comma, 9, close square bracket[3,9][3, 9][3,9] and differentiable on the open interval left bracket, 3, comma, 9, right bracket, .(3,9).(3, 9).(3,9).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 3, comma, 9, right bracket(3,9)(3, 9)(3,9) such that f, prime,  of, c, equals, minus, 3, .f′(c)=−3.f'(c)=-3.f′(c)=−3.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 3, is less than or equal to, x, is less than or equal to, 63≤x≤63\\le x \\le 63≤x≤6.  Determine the validity of the following statement: There exists a value cccc in the open interval 3, is less than, x, is less than, 63<x<63 < x < 63<x<6 such that f, prime,  of, c, equals, minus, 4, .f′(c)=−4.f'(c)=-4.f′(c)=−4.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 3, is less than or equal to, x, is less than or equal to, 63≤x≤63\\le x \\le 63≤x≤6.  Determine the validity of the following statement: There exists a value cccc in the open interval 3, is less than, x, is less than, 63<x<63 < x < 63<x<6 such that f, prime,  of, c, equals, minus, 4, .f′(c)=−4.f'(c)=-4.f′(c)=−4.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval left bracket, 3, comma, 6, right bracket, .(3,6).(3, 6).(3,6).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 3, comma, 6, right bracket(3,6)(3, 6)(3,6) such that f, prime,  of, c, equals, minus, start fraction, 5, divided by, 3, end fraction, .f′(c)=−53.f'(c)=-\\frac{5}{3}.f′(c)=−35​.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval left bracket, 3, comma, 6, right bracket, .(3,6).(3, 6).(3,6).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 3, comma, 6, right bracket(3,6)(3, 6)(3,6) such that f, prime,  of, c, equals, minus, start fraction, 5, divided by, 3, end fraction, .f′(c)=−53.f'(c)=-\\frac{5}{3}.f′(c)=−35​.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 1, comma, 3, close square bracket[−1,3][-1, 3][−1,3] and differentiable on the open interval left bracket, minus, 1, comma, 3, right bracket, .(−1,3).(-1, 3).(−1,3).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 1, comma, 3, right bracket(−1,3)(-1, 3)(−1,3) such that f, prime,  of, c, equals, minus, 3, .f′(c)=−3.f'(c)=-3.f′(c)=−3.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 1, comma, 3, close square bracket[−1,3][-1, 3][−1,3] and differentiable on the open interval left bracket, minus, 1, comma, 3, right bracket, .(−1,3).(-1, 3).(−1,3).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 1, comma, 3, right bracket(−1,3)(-1, 3)(−1,3) such that f, prime,  of, c, equals, minus, 3, .f′(c)=−3.f'(c)=-3.f′(c)=−3.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 3, comma, 0, close square bracket[−3,0][-3, 0][−3,0].  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 3, comma, 0, right bracket(−3,0)(-3, 0)(−3,0) such that f, prime,  of, c, equals, start fraction, 13, divided by, 3, end fraction, .f′(c)=133.f'(c)=\\frac{13}{3}.f′(c)=313​.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 3, comma, 0, close square bracket[−3,0][-3, 0][−3,0].  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 3, comma, 0, right bracket(−3,0)(-3, 0)(−3,0) such that f, prime,  of, c, equals, start fraction, 13, divided by, 3, end fraction, .f′(c)=133.f'(c)=\\frac{13}{3}.f′(c)=313​.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval left bracket, 2, comma, 7, right bracket, .(2,7).(2, 7).(2,7).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 2, comma, 7, right bracket(2,7)(2, 7)(2,7) such that f, prime,  of, c, equals, one fifth, .f′(c)=15.f'(c)=\\frac{1}{5}.f′(c)=51​.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval left bracket, 2, comma, 7, right bracket, .(2,7).(2, 7).(2,7).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 2, comma, 7, right bracket(2,7)(2, 7)(2,7) such that f, prime,  of, c, equals, one fifth, .f′(c)=15.f'(c)=\\frac{1}{5}.f′(c)=51​.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 3, comma, 0, close square bracket[−3,0][-3, 0][−3,0] and differentiable on the open interval left bracket, minus, 3, comma, 0, right bracket, .(−3,0).(-3, 0).(−3,0).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 3, comma, 0, right bracket(−3,0)(-3, 0)(−3,0) such that f, prime,  of, c, equals, 4, .f′(c)=4.f'(c)=4.f′(c)=4.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 3, comma, 0, close square bracket[−3,0][-3, 0][−3,0] and differentiable on the open interval left bracket, minus, 3, comma, 0, right bracket, .(−3,0).(-3, 0).(−3,0).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 3, comma, 0, right bracket(−3,0)(-3, 0)(−3,0) such that f, prime,  of, c, equals, 4, .f′(c)=4.f'(c)=4.f′(c)=4.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 1, comma, 2, close square bracket, .[−1,2].[-1, 2].[−1,2]. Also, there does not exist a value cccc in the open interval left bracket, minus, 1, comma, 2, right bracket(−1,2)(-1, 2)(−1,2) such that f, prime,  of, c, equals, 3, .f′(c)=3.f'(c)=3.f′(c)=3. Determine the validity of the following statement: The function ffff is differentiable on the open interval left bracket, minus, 1, comma, 2, right bracket, .(−1,2).(-1, 2).(−1,2).",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 1, comma, 2, close square bracket, .[−1,2].[-1, 2].[−1,2]. Also, there does not exist a value cccc in the open interval left bracket, minus, 1, comma, 2, right bracket(−1,2)(-1, 2)(−1,2) such that f, prime,  of, c, equals, 3, .f′(c)=3.f'(c)=3.f′(c)=3. Determine the validity of the following statement: The function ffff is differentiable on the open interval left bracket, minus, 1, comma, 2, right bracket, .(−1,2).(-1, 2).(−1,2).",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 2, comma, 1, close square bracket[−2,1][-2, 1][−2,1] and differentiable on the open interval left bracket, minus, 2, comma, 1, right bracket, .(−2,1).(-2, 1).(−2,1).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 2, comma, 1, right bracket(−2,1)(-2, 1)(−2,1) such that f, prime,  of, c, equals, 4, .f′(c)=4.f'(c)=4.f′(c)=4.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 2, comma, 1, close square bracket[−2,1][-2, 1][−2,1] and differentiable on the open interval left bracket, minus, 2, comma, 1, right bracket, .(−2,1).(-2, 1).(−2,1).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 2, comma, 1, right bracket(−2,1)(-2, 1)(−2,1) such that f, prime,  of, c, equals, 4, .f′(c)=4.f'(c)=4.f′(c)=4.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 3, is less than or equal to, x, is less than or equal to, 3−3≤x≤3-3\\le x \\le 3−3≤x≤3 and differentiable on the open interval minus, 3, is less than, x, is less than, 3, .−3<x<3.-3 < x < 3.−3<x<3.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 3, is less than, x, is less than, 3−3<x<3-3 < x < 3−3<x<3 such that f, prime,  of, c, equals, 1, .f′(c)=1.f'(c)=1.f′(c)=1.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 3, is less than or equal to, x, is less than or equal to, 3−3≤x≤3-3\\le x \\le 3−3≤x≤3 and differentiable on the open interval minus, 3, is less than, x, is less than, 3, .−3<x<3.-3 < x < 3.−3<x<3.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 3, is less than, x, is less than, 3−3<x<3-3 < x < 3−3<x<3 such that f, prime,  of, c, equals, 1, .f′(c)=1.f'(c)=1.f′(c)=1.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 2, is less than or equal to, x, is less than or equal to, 52≤x≤52\\le x \\le 52≤x≤5 and differentiable on the open interval 2, is less than, x, is less than, 5, .2<x<5.2 < x < 5.2<x<5.  Determine the validity of the following statement: There exists a value cccc in the open interval 2, is less than, x, is less than, 52<x<52 < x < 52<x<5 such that f, prime,  of, c, equals, minus, 4, .f′(c)=−4.f'(c)=-4.f′(c)=−4.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 2, is less than or equal to, x, is less than or equal to, 52≤x≤52\\le x \\le 52≤x≤5 and differentiable on the open interval 2, is less than, x, is less than, 5, .2<x<5.2 < x < 5.2<x<5.  Determine the validity of the following statement: There exists a value cccc in the open interval 2, is less than, x, is less than, 52<x<52 < x < 52<x<5 such that f, prime,  of, c, equals, minus, 4, .f′(c)=−4.f'(c)=-4.f′(c)=−4.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 1, comma, 5, close square bracket, .[1,5].[1, 5].[1,5]. Also, there does not exist a value cccc in the open interval left bracket, 1, comma, 5, right bracket(1,5)(1, 5)(1,5) such that f, prime,  of, c, equals, minus, 2, .f′(c)=−2.f'(c)=-2.f′(c)=−2. Determine the validity of the following statement: The function ffff is differentiable on the open interval left bracket, 1, comma, 5, right bracket, .(1,5).(1, 5).(1,5).",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 1, comma, 5, close square bracket, .[1,5].[1, 5].[1,5]. Also, there does not exist a value cccc in the open interval left bracket, 1, comma, 5, right bracket(1,5)(1, 5)(1,5) such that f, prime,  of, c, equals, minus, 2, .f′(c)=−2.f'(c)=-2.f′(c)=−2. Determine the validity of the following statement: The function ffff is differentiable on the open interval left bracket, 1, comma, 5, right bracket, .(1,5).(1, 5).(1,5).",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 3, comma, 2, close square bracket[−3,2][-3, 2][−3,2] and differentiable on the open interval left bracket, minus, 3, comma, 2, right bracket, .(−3,2).(-3, 2).(−3,2).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 3, comma, 2, right bracket(−3,2)(-3, 2)(−3,2) such that f, prime,  of, c, equals, minus, start fraction, 12, divided by, 5, end fraction, .f′(c)=−125.f'(c)=-\\frac{12}{5}.f′(c)=−512​.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 3, comma, 2, close square bracket[−3,2][-3, 2][−3,2] and differentiable on the open interval left bracket, minus, 3, comma, 2, right bracket, .(−3,2).(-3, 2).(−3,2).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 3, comma, 2, right bracket(−3,2)(-3, 2)(−3,2) such that f, prime,  of, c, equals, minus, start fraction, 12, divided by, 5, end fraction, .f′(c)=−125.f'(c)=-\\frac{12}{5}.f′(c)=−512​.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 3, comma, 6, close square bracket[3,6][3, 6][3,6].  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 3, comma, 6, right bracket(3,6)(3, 6)(3,6) such that f, prime,  of, c, equals, minus, 6, .f′(c)=−6.f'(c)=-6.f′(c)=−6.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 3, comma, 6, close square bracket[3,6][3, 6][3,6].  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 3, comma, 6, right bracket(3,6)(3, 6)(3,6) such that f, prime,  of, c, equals, minus, 6, .f′(c)=−6.f'(c)=-6.f′(c)=−6.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 1, is less than or equal to, x, is less than or equal to, 2−1≤x≤2-1\\le x \\le 2−1≤x≤2 and differentiable on the open interval minus, 1, is less than, x, is less than, 2, .−1<x<2.-1 < x < 2.−1<x<2.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 1, is less than, x, is less than, 2−1<x<2-1 < x < 2−1<x<2 such that f, prime,  of, c, equals, minus, 3, .f′(c)=−3.f'(c)=-3.f′(c)=−3.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 1, is less than or equal to, x, is less than or equal to, 2−1≤x≤2-1\\le x \\le 2−1≤x≤2 and differentiable on the open interval minus, 1, is less than, x, is less than, 2, .−1<x<2.-1 < x < 2.−1<x<2.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 1, is less than, x, is less than, 2−1<x<2-1 < x < 2−1<x<2 such that f, prime,  of, c, equals, minus, 3, .f′(c)=−3.f'(c)=-3.f′(c)=−3.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 2, is less than or equal to, x, is less than or equal to, 42≤x≤42\\le x \\le 42≤x≤4 and differentiable on the open interval 2, is less than, x, is less than, 4, .2<x<4.2 < x < 4.2<x<4.  Determine the validity of the following statement: There exists a value cccc in the open interval 2, is less than, x, is less than, 42<x<42 < x < 42<x<4 such that f, prime,  of, c, equals, 3, .f′(c)=3.f'(c)=3.f′(c)=3.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 2, is less than or equal to, x, is less than or equal to, 42≤x≤42\\le x \\le 42≤x≤4 and differentiable on the open interval 2, is less than, x, is less than, 4, .2<x<4.2 < x < 4.2<x<4.  Determine the validity of the following statement: There exists a value cccc in the open interval 2, is less than, x, is less than, 42<x<42 < x < 42<x<4 such that f, prime,  of, c, equals, 3, .f′(c)=3.f'(c)=3.f′(c)=3.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 2, is less than or equal to, x, is less than or equal to, 1−2≤x≤1-2\\le x \\le 1−2≤x≤1 and differentiable on the open interval minus, 2, is less than, x, is less than, 1, .−2<x<1.-2 < x < 1.−2<x<1.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 2, is less than, x, is less than, 1−2<x<1-2 < x < 1−2<x<1 such that f, prime,  of, c, equals, minus, 6, .f′(c)=−6.f'(c)=-6.f′(c)=−6.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 2, is less than or equal to, x, is less than or equal to, 1−2≤x≤1-2\\le x \\le 1−2≤x≤1 and differentiable on the open interval minus, 2, is less than, x, is less than, 1, .−2<x<1.-2 < x < 1.−2<x<1.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 2, is less than, x, is less than, 1−2<x<1-2 < x < 1−2<x<1 such that f, prime,  of, c, equals, minus, 6, .f′(c)=−6.f'(c)=-6.f′(c)=−6.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 2, is less than or equal to, x, is less than or equal to, 1−2≤x≤1-2\\le x \\le 1−2≤x≤1 and differentiable on the open interval minus, 2, is less than, x, is less than, 1, .−2<x<1.-2 < x < 1.−2<x<1.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 2, is less than, x, is less than, 1−2<x<1-2 < x < 1−2<x<1 such that f, prime,  of, c, equals, minus, 6, .f′(c)=−6.f'(c)=-6.f′(c)=−6.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 2, is less than or equal to, x, is less than or equal to, 1−2≤x≤1-2\\le x \\le 1−2≤x≤1 and differentiable on the open interval minus, 2, is less than, x, is less than, 1, .−2<x<1.-2 < x < 1.−2<x<1.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 2, is less than, x, is less than, 1−2<x<1-2 < x < 1−2<x<1 such that f, prime,  of, c, equals, minus, 6, .f′(c)=−6.f'(c)=-6.f′(c)=−6.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 1, comma, 1, close square bracket[−1,1][-1, 1][−1,1] and differentiable on the open interval left bracket, minus, 1, comma, 1, right bracket, .(−1,1).(-1, 1).(−1,1).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 1, comma, 1, right bracket(−1,1)(-1, 1)(−1,1) such that f, prime,  of, c, equals, minus, 2, .f′(c)=−2.f'(c)=-2.f′(c)=−2.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 1, comma, 1, close square bracket[−1,1][-1, 1][−1,1] and differentiable on the open interval left bracket, minus, 1, comma, 1, right bracket, .(−1,1).(-1, 1).(−1,1).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 1, comma, 1, right bracket(−1,1)(-1, 1)(−1,1) such that f, prime,  of, c, equals, minus, 2, .f′(c)=−2.f'(c)=-2.f′(c)=−2.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval minus, 3, is less than, x, is less than, 1, .−3<x<1.-3 < x < 1.−3<x<1.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 3, is less than, x, is less than, 1−3<x<1-3 < x < 1−3<x<1 such that f, prime,  of, c, equals, minus, 2, .f′(c)=−2.f'(c)=-2.f′(c)=−2.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval minus, 3, is less than, x, is less than, 1, .−3<x<1.-3 < x < 1.−3<x<1.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 3, is less than, x, is less than, 1−3<x<1-3 < x < 1−3<x<1 such that f, prime,  of, c, equals, minus, 2, .f′(c)=−2.f'(c)=-2.f′(c)=−2.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 2, is less than or equal to, x, is less than or equal to, 62≤x≤62\\le x \\le 62≤x≤6 and differentiable on the open interval 2, is less than, x, is less than, 6, .2<x<6.2 < x < 6.2<x<6.  Determine the validity of the following statement: There exists a value cccc in the open interval 2, is less than, x, is less than, 62<x<62 < x < 62<x<6 such that f, prime,  of, c, equals, 2, .f′(c)=2.f'(c)=2.f′(c)=2.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 2, is less than or equal to, x, is less than or equal to, 62≤x≤62\\le x \\le 62≤x≤6 and differentiable on the open interval 2, is less than, x, is less than, 6, .2<x<6.2 < x < 6.2<x<6.  Determine the validity of the following statement: There exists a value cccc in the open interval 2, is less than, x, is less than, 62<x<62 < x < 62<x<6 such that f, prime,  of, c, equals, 2, .f′(c)=2.f'(c)=2.f′(c)=2.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval left bracket, 0, comma, 3, right bracket, .(0,3).(0, 3).(0,3). Also, there does not exist a value cccc in the open interval left bracket, 0, comma, 3, right bracket(0,3)(0, 3)(0,3) such that f, prime,  of, c, equals, minus, 3, .f′(c)=−3.f'(c)=-3.f′(c)=−3. Determine the validity of the following statement: The function ffff is continuous on the closed interval open square bracket, 0, comma, 3, close square bracket, .[0,3].[0, 3].[0,3].",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval left bracket, 0, comma, 3, right bracket, .(0,3).(0, 3).(0,3). Also, there does not exist a value cccc in the open interval left bracket, 0, comma, 3, right bracket(0,3)(0, 3)(0,3) such that f, prime,  of, c, equals, minus, 3, .f′(c)=−3.f'(c)=-3.f′(c)=−3. Determine the validity of the following statement: The function ffff is continuous on the closed interval open square bracket, 0, comma, 3, close square bracket, .[0,3].[0, 3].[0,3].",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 2, is less than or equal to, x, is less than or equal to, 1−2≤x≤1-2\\le x \\le 1−2≤x≤1 and differentiable on the open interval minus, 2, is less than, x, is less than, 1, .−2<x<1.-2 < x < 1.−2<x<1.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 2, is less than, x, is less than, 1−2<x<1-2 < x < 1−2<x<1 such that f, prime,  of, c, equals, start fraction, 5, divided by, 3, end fraction, .f′(c)=53.f'(c)=\\frac{5}{3}.f′(c)=35​.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 2, is less than or equal to, x, is less than or equal to, 1−2≤x≤1-2\\le x \\le 1−2≤x≤1 and differentiable on the open interval minus, 2, is less than, x, is less than, 1, .−2<x<1.-2 < x < 1.−2<x<1.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 2, is less than, x, is less than, 1−2<x<1-2 < x < 1−2<x<1 such that f, prime,  of, c, equals, start fraction, 5, divided by, 3, end fraction, .f′(c)=53.f'(c)=\\frac{5}{3}.f′(c)=35​.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 3, is less than or equal to, x, is less than or equal to, 7, .3≤x≤7.3\\le x \\le 7.3≤x≤7. Also, there does not exist a value cccc in the open interval 3, is less than, x, is less than, 73<x<73 < x < 73<x<7 such that f, prime,  of, c, equals, minus, start fraction, 5, divided by, 4, end fraction, .f′(c)=−54.f'(c)=-\\frac{5}{4}.f′(c)=−45​. Determine the validity of the following statement: The function ffff is differentiable on the open interval 3, is less than, x, is less than, 7, .3<x<7.3 < x < 7.3<x<7.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 3, is less than or equal to, x, is less than or equal to, 7, .3≤x≤7.3\\le x \\le 7.3≤x≤7. Also, there does not exist a value cccc in the open interval 3, is less than, x, is less than, 73<x<73 < x < 73<x<7 such that f, prime,  of, c, equals, minus, start fraction, 5, divided by, 4, end fraction, .f′(c)=−54.f'(c)=-\\frac{5}{4}.f′(c)=−45​. Determine the validity of the following statement: The function ffff is differentiable on the open interval 3, is less than, x, is less than, 7, .3<x<7.3 < x < 7.3<x<7.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 1, comma, 4, close square bracket[1,4][1, 4][1,4] and differentiable on the open interval left bracket, 1, comma, 4, right bracket, .(1,4).(1, 4).(1,4).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 1, comma, 4, right bracket(1,4)(1, 4)(1,4) such that f, prime,  of, c, equals, 3, .f′(c)=3.f'(c)=3.f′(c)=3.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 1, comma, 4, close square bracket[1,4][1, 4][1,4] and differentiable on the open interval left bracket, 1, comma, 4, right bracket, .(1,4).(1, 4).(1,4).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 1, comma, 4, right bracket(1,4)(1, 4)(1,4) such that f, prime,  of, c, equals, 3, .f′(c)=3.f'(c)=3.f′(c)=3.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 1, comma, 2, close square bracket[−1,2][-1, 2][−1,2].  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 1, comma, 2, right bracket(−1,2)(-1, 2)(−1,2) such that f, prime,  of, c, equals, minus, 2, .f′(c)=−2.f'(c)=-2.f′(c)=−2.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 1, comma, 2, close square bracket[−1,2][-1, 2][−1,2].  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 1, comma, 2, right bracket(−1,2)(-1, 2)(−1,2) such that f, prime,  of, c, equals, minus, 2, .f′(c)=−2.f'(c)=-2.f′(c)=−2.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval 2, is less than, x, is less than, 4, .2<x<4.2 < x < 4.2<x<4.  Determine the validity of the following statement: There exists a value cccc in the open interval 2, is less than, x, is less than, 42<x<42 < x < 42<x<4 such that f, prime,  of, c, equals, 6, .f′(c)=6.f'(c)=6.f′(c)=6.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval 2, is less than, x, is less than, 4, .2<x<4.2 < x < 4.2<x<4.  Determine the validity of the following statement: There exists a value cccc in the open interval 2, is less than, x, is less than, 42<x<42 < x < 42<x<4 such that f, prime,  of, c, equals, 6, .f′(c)=6.f'(c)=6.f′(c)=6.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 2, comma, 1, close square bracket[−2,1][-2, 1][−2,1].  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 2, comma, 1, right bracket(−2,1)(-2, 1)(−2,1) such that f, prime,  of, c, equals, start fraction, 23, divided by, 3, end fraction, .f′(c)=233.f'(c)=\\frac{23}{3}.f′(c)=323​.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 2, comma, 1, close square bracket[−2,1][-2, 1][−2,1].  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 2, comma, 1, right bracket(−2,1)(-2, 1)(−2,1) such that f, prime,  of, c, equals, start fraction, 23, divided by, 3, end fraction, .f′(c)=233.f'(c)=\\frac{23}{3}.f′(c)=323​.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 1, comma, 3, close square bracket[1,3][1, 3][1,3].  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 1, comma, 3, right bracket(1,3)(1, 3)(1,3) such that f, prime,  of, c, equals, 1, .f′(c)=1.f'(c)=1.f′(c)=1.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 1, comma, 3, close square bracket[1,3][1, 3][1,3].  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 1, comma, 3, right bracket(1,3)(1, 3)(1,3) such that f, prime,  of, c, equals, 1, .f′(c)=1.f'(c)=1.f′(c)=1.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 2, comma, 0, close square bracket, .[−2,0].[-2, 0].[−2,0]. Also, there does not exist a value cccc in the open interval left bracket, minus, 2, comma, 0, right bracket(−2,0)(-2, 0)(−2,0) such that f, prime,  of, c, equals, minus, start fraction, 5, divided by, 2, end fraction, .f′(c)=−52.f'(c)=-\\frac{5}{2}.f′(c)=−25​. Determine the validity of the following statement: The function ffff is differentiable on the open interval left bracket, minus, 2, comma, 0, right bracket, .(−2,0).(-2, 0).(−2,0).",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 2, comma, 0, close square bracket, .[−2,0].[-2, 0].[−2,0]. Also, there does not exist a value cccc in the open interval left bracket, minus, 2, comma, 0, right bracket(−2,0)(-2, 0)(−2,0) such that f, prime,  of, c, equals, minus, start fraction, 5, divided by, 2, end fraction, .f′(c)=−52.f'(c)=-\\frac{5}{2}.f′(c)=−25​. Determine the validity of the following statement: The function ffff is differentiable on the open interval left bracket, minus, 2, comma, 0, right bracket, .(−2,0).(-2, 0).(−2,0).",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 1, is less than or equal to, x, is less than or equal to, 4−1≤x≤4-1\\le x \\le 4−1≤x≤4 and differentiable on the open interval minus, 1, is less than, x, is less than, 4, .−1<x<4.-1 < x < 4.−1<x<4.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 1, is less than, x, is less than, 4−1<x<4-1 < x < 4−1<x<4 such that f, prime,  of, c, equals, start fraction, 23, divided by, 4, end fraction, .f′(c)=234.f'(c)=\\frac{23}{4}.f′(c)=423​.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 1, is less than or equal to, x, is less than or equal to, 4−1≤x≤4-1\\le x \\le 4−1≤x≤4 and differentiable on the open interval minus, 1, is less than, x, is less than, 4, .−1<x<4.-1 < x < 4.−1<x<4.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 1, is less than, x, is less than, 4−1<x<4-1 < x < 4−1<x<4 such that f, prime,  of, c, equals, start fraction, 23, divided by, 4, end fraction, .f′(c)=234.f'(c)=\\frac{23}{4}.f′(c)=423​.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 3, is less than or equal to, x, is less than or equal to, 83≤x≤83\\le x \\le 83≤x≤8 and differentiable on the open interval 3, is less than, x, is less than, 8, .3<x<8.3 < x < 8.3<x<8.  Determine the validity of the following statement: There exists a value cccc in the open interval 3, is less than, x, is less than, 83<x<83 < x < 83<x<8 such that f, prime,  of, c, equals, start fraction, 5, divided by, 3, end fraction, .f′(c)=53.f'(c)=\\frac{5}{3}.f′(c)=35​.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 3, is less than or equal to, x, is less than or equal to, 83≤x≤83\\le x \\le 83≤x≤8 and differentiable on the open interval 3, is less than, x, is less than, 8, .3<x<8.3 < x < 8.3<x<8.  Determine the validity of the following statement: There exists a value cccc in the open interval 3, is less than, x, is less than, 83<x<83 < x < 83<x<8 such that f, prime,  of, c, equals, start fraction, 5, divided by, 3, end fraction, .f′(c)=53.f'(c)=\\frac{5}{3}.f′(c)=35​.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval left bracket, 1, comma, 4, right bracket, .(1,4).(1, 4).(1,4). Also, there does not exist a value cccc in the open interval left bracket, 1, comma, 4, right bracket(1,4)(1, 4)(1,4) such that f, prime,  of, c, equals, one third, .f′(c)=13.f'(c)=\\frac{1}{3}.f′(c)=31​. Determine the validity of the following statement: The function ffff is continuous on the closed interval open square bracket, 1, comma, 4, close square bracket, .[1,4].[1, 4].[1,4].",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval left bracket, 1, comma, 4, right bracket, .(1,4).(1, 4).(1,4). Also, there does not exist a value cccc in the open interval left bracket, 1, comma, 4, right bracket(1,4)(1, 4)(1,4) such that f, prime,  of, c, equals, one third, .f′(c)=13.f'(c)=\\frac{1}{3}.f′(c)=31​. Determine the validity of the following statement: The function ffff is continuous on the closed interval open square bracket, 1, comma, 4, close square bracket, .[1,4].[1, 4].[1,4].",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 0, comma, 3, close square bracket[0,3][0, 3][0,3] and differentiable on the open interval left bracket, 0, comma, 3, right bracket, .(0,3).(0, 3).(0,3).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 0, comma, 3, right bracket(0,3)(0, 3)(0,3) such that f, prime,  of, c, equals, minus, 3, .f′(c)=−3.f'(c)=-3.f′(c)=−3.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 0, comma, 3, close square bracket[0,3][0, 3][0,3] and differentiable on the open interval left bracket, 0, comma, 3, right bracket, .(0,3).(0, 3).(0,3).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 0, comma, 3, right bracket(0,3)(0, 3)(0,3) such that f, prime,  of, c, equals, minus, 3, .f′(c)=−3.f'(c)=-3.f′(c)=−3.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 2, comma, 0, close square bracket, .[−2,0].[-2, 0].[−2,0]. Also, there does not exist a value cccc in the open interval left bracket, minus, 2, comma, 0, right bracket(−2,0)(-2, 0)(−2,0) such that f, prime,  of, c, equals, minus, 2, .f′(c)=−2.f'(c)=-2.f′(c)=−2. Determine the validity of the following statement: The function ffff is differentiable on the open interval left bracket, minus, 2, comma, 0, right bracket, .(−2,0).(-2, 0).(−2,0).",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 2, comma, 0, close square bracket, .[−2,0].[-2, 0].[−2,0]. Also, there does not exist a value cccc in the open interval left bracket, minus, 2, comma, 0, right bracket(−2,0)(-2, 0)(−2,0) such that f, prime,  of, c, equals, minus, 2, .f′(c)=−2.f'(c)=-2.f′(c)=−2. Determine the validity of the following statement: The function ffff is differentiable on the open interval left bracket, minus, 2, comma, 0, right bracket, .(−2,0).(-2, 0).(−2,0).",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 1, is less than or equal to, x, is less than or equal to, 2−1≤x≤2-1\\le x \\le 2−1≤x≤2 and differentiable on the open interval minus, 1, is less than, x, is less than, 2, .−1<x<2.-1 < x < 2.−1<x<2.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 1, is less than, x, is less than, 2−1<x<2-1 < x < 2−1<x<2 such that f, prime,  of, c, equals, 1, .f′(c)=1.f'(c)=1.f′(c)=1.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 1, is less than or equal to, x, is less than or equal to, 2−1≤x≤2-1\\le x \\le 2−1≤x≤2 and differentiable on the open interval minus, 1, is less than, x, is less than, 2, .−1<x<2.-1 < x < 2.−1<x<2.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 1, is less than, x, is less than, 2−1<x<2-1 < x < 2−1<x<2 such that f, prime,  of, c, equals, 1, .f′(c)=1.f'(c)=1.f′(c)=1.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 3, comma, 7, close square bracket[3,7][3, 7][3,7] and differentiable on the open interval left bracket, 3, comma, 7, right bracket, .(3,7).(3, 7).(3,7).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 3, comma, 7, right bracket(3,7)(3, 7)(3,7) such that f, prime,  of, c, equals, 3, .f′(c)=3.f'(c)=3.f′(c)=3.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 3, comma, 7, close square bracket[3,7][3, 7][3,7] and differentiable on the open interval left bracket, 3, comma, 7, right bracket, .(3,7).(3, 7).(3,7).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 3, comma, 7, right bracket(3,7)(3, 7)(3,7) such that f, prime,  of, c, equals, 3, .f′(c)=3.f'(c)=3.f′(c)=3.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 3, is less than or equal to, x, is less than or equal to, 73≤x≤73\\le x \\le 73≤x≤7 and differentiable on the open interval 3, is less than, x, is less than, 7, .3<x<7.3 < x < 7.3<x<7.  Determine the validity of the following statement: There exists a value cccc in the open interval 3, is less than, x, is less than, 73<x<73 < x < 73<x<7 such that f, prime,  of, c, equals, minus, 4, .f′(c)=−4.f'(c)=-4.f′(c)=−4.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 3, is less than or equal to, x, is less than or equal to, 73≤x≤73\\le x \\le 73≤x≤7 and differentiable on the open interval 3, is less than, x, is less than, 7, .3<x<7.3 < x < 7.3<x<7.  Determine the validity of the following statement: There exists a value cccc in the open interval 3, is less than, x, is less than, 73<x<73 < x < 73<x<7 such that f, prime,  of, c, equals, minus, 4, .f′(c)=−4.f'(c)=-4.f′(c)=−4.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 3, is less than or equal to, x, is less than or equal to, 73≤x≤73\\le x \\le 73≤x≤7 and differentiable on the open interval 3, is less than, x, is less than, 7, .3<x<7.3 < x < 7.3<x<7.  Determine the validity of the following statement: There exists a value cccc in the open interval 3, is less than, x, is less than, 73<x<73 < x < 73<x<7 such that f, prime,  of, c, equals, minus, start fraction, 7, divided by, 2, end fraction, .f′(c)=−72.f'(c)=-\\frac{7}{2}.f′(c)=−27​.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 3, is less than or equal to, x, is less than or equal to, 73≤x≤73\\le x \\le 73≤x≤7 and differentiable on the open interval 3, is less than, x, is less than, 7, .3<x<7.3 < x < 7.3<x<7.  Determine the validity of the following statement: There exists a value cccc in the open interval 3, is less than, x, is less than, 73<x<73 < x < 73<x<7 such that f, prime,  of, c, equals, minus, start fraction, 7, divided by, 2, end fraction, .f′(c)=−72.f'(c)=-\\frac{7}{2}.f′(c)=−27​.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 2, comma, 5, close square bracket[2,5][2, 5][2,5] and differentiable on the open interval left bracket, 2, comma, 5, right bracket, .(2,5).(2, 5).(2,5).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 2, comma, 5, right bracket(2,5)(2, 5)(2,5) such that f, prime,  of, c, equals, minus, 6, .f′(c)=−6.f'(c)=-6.f′(c)=−6.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 2, comma, 5, close square bracket[2,5][2, 5][2,5] and differentiable on the open interval left bracket, 2, comma, 5, right bracket, .(2,5).(2, 5).(2,5).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 2, comma, 5, right bracket(2,5)(2, 5)(2,5) such that f, prime,  of, c, equals, minus, 6, .f′(c)=−6.f'(c)=-6.f′(c)=−6.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval 2, is less than, x, is less than, 5, .2<x<5.2 < x < 5.2<x<5.  Determine the validity of the following statement: There exists a value cccc in the open interval 2, is less than, x, is less than, 52<x<52 < x < 52<x<5 such that f, prime,  of, c, equals, 3, .f′(c)=3.f'(c)=3.f′(c)=3.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval 2, is less than, x, is less than, 5, .2<x<5.2 < x < 5.2<x<5.  Determine the validity of the following statement: There exists a value cccc in the open interval 2, is less than, x, is less than, 52<x<52 < x < 52<x<5 such that f, prime,  of, c, equals, 3, .f′(c)=3.f'(c)=3.f′(c)=3.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 2, comma, 1, close square bracket[−2,1][-2, 1][−2,1] and differentiable on the open interval left bracket, minus, 2, comma, 1, right bracket, .(−2,1).(-2, 1).(−2,1).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 2, comma, 1, right bracket(−2,1)(-2, 1)(−2,1) such that f, prime,  of, c, equals, minus, one half, .f′(c)=−12.f'(c)=-\\frac{1}{2}.f′(c)=−21​.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 2, comma, 1, close square bracket[−2,1][-2, 1][−2,1] and differentiable on the open interval left bracket, minus, 2, comma, 1, right bracket, .(−2,1).(-2, 1).(−2,1).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 2, comma, 1, right bracket(−2,1)(-2, 1)(−2,1) such that f, prime,  of, c, equals, minus, one half, .f′(c)=−12.f'(c)=-\\frac{1}{2}.f′(c)=−21​.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval left bracket, 0, comma, 6, right bracket, .(0,6).(0, 6).(0,6). Also, there does not exist a value cccc in the open interval left bracket, 0, comma, 6, right bracket(0,6)(0, 6)(0,6) such that f, prime,  of, c, equals, one half, .f′(c)=12.f'(c)=\\frac{1}{2}.f′(c)=21​. Determine the validity of the following statement: The function ffff is continuous on the closed interval open square bracket, 0, comma, 6, close square bracket, .[0,6].[0, 6].[0,6].",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval left bracket, 0, comma, 6, right bracket, .(0,6).(0, 6).(0,6). Also, there does not exist a value cccc in the open interval left bracket, 0, comma, 6, right bracket(0,6)(0, 6)(0,6) such that f, prime,  of, c, equals, one half, .f′(c)=12.f'(c)=\\frac{1}{2}.f′(c)=21​. Determine the validity of the following statement: The function ffff is continuous on the closed interval open square bracket, 0, comma, 6, close square bracket, .[0,6].[0, 6].[0,6].",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 1, is less than or equal to, x, is less than or equal to, 3−1≤x≤3-1\\le x \\le 3−1≤x≤3 and differentiable on the open interval minus, 1, is less than, x, is less than, 3, .−1<x<3.-1 < x < 3.−1<x<3.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 1, is less than, x, is less than, 3−1<x<3-1 < x < 3−1<x<3 such that f, prime,  of, c, equals, 3, .f′(c)=3.f'(c)=3.f′(c)=3.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 1, is less than or equal to, x, is less than or equal to, 3−1≤x≤3-1\\le x \\le 3−1≤x≤3 and differentiable on the open interval minus, 1, is less than, x, is less than, 3, .−1<x<3.-1 < x < 3.−1<x<3.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 1, is less than, x, is less than, 3−1<x<3-1 < x < 3−1<x<3 such that f, prime,  of, c, equals, 3, .f′(c)=3.f'(c)=3.f′(c)=3.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval 3, is less than, x, is less than, 9, .3<x<9.3 < x < 9.3<x<9.  Determine the validity of the following statement: There exists a value cccc in the open interval 3, is less than, x, is less than, 93<x<93 < x < 93<x<9 such that f, prime,  of, c, equals, 5, .f′(c)=5.f'(c)=5.f′(c)=5.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval 3, is less than, x, is less than, 9, .3<x<9.3 < x < 9.3<x<9.  Determine the validity of the following statement: There exists a value cccc in the open interval 3, is less than, x, is less than, 93<x<93 < x < 93<x<9 such that f, prime,  of, c, equals, 5, .f′(c)=5.f'(c)=5.f′(c)=5.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 3, comma, 7, close square bracket[3,7][3, 7][3,7] and differentiable on the open interval left bracket, 3, comma, 7, right bracket, .(3,7).(3, 7).(3,7).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 3, comma, 7, right bracket(3,7)(3, 7)(3,7) such that f, prime,  of, c, equals, minus, 5, .f′(c)=−5.f'(c)=-5.f′(c)=−5.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 3, comma, 7, close square bracket[3,7][3, 7][3,7] and differentiable on the open interval left bracket, 3, comma, 7, right bracket, .(3,7).(3, 7).(3,7).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 3, comma, 7, right bracket(3,7)(3, 7)(3,7) such that f, prime,  of, c, equals, minus, 5, .f′(c)=−5.f'(c)=-5.f′(c)=−5.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 1, is less than or equal to, x, is less than or equal to, 2−1≤x≤2-1\\le x \\le 2−1≤x≤2 and differentiable on the open interval minus, 1, is less than, x, is less than, 2, .−1<x<2.-1 < x < 2.−1<x<2.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 1, is less than, x, is less than, 2−1<x<2-1 < x < 2−1<x<2 such that f, prime,  of, c, equals, minus, 4, .f′(c)=−4.f'(c)=-4.f′(c)=−4.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 1, is less than or equal to, x, is less than or equal to, 2−1≤x≤2-1\\le x \\le 2−1≤x≤2 and differentiable on the open interval minus, 1, is less than, x, is less than, 2, .−1<x<2.-1 < x < 2.−1<x<2.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 1, is less than, x, is less than, 2−1<x<2-1 < x < 2−1<x<2 such that f, prime,  of, c, equals, minus, 4, .f′(c)=−4.f'(c)=-4.f′(c)=−4.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 3, is less than or equal to, x, is less than or equal to, 3−3≤x≤3-3\\le x \\le 3−3≤x≤3 and differentiable on the open interval minus, 3, is less than, x, is less than, 3, .−3<x<3.-3 < x < 3.−3<x<3.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 3, is less than, x, is less than, 3−3<x<3-3 < x < 3−3<x<3 such that f, prime,  of, c, equals, minus, 1, .f′(c)=−1.f'(c)=-1.f′(c)=−1.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 3, is less than or equal to, x, is less than or equal to, 3−3≤x≤3-3\\le x \\le 3−3≤x≤3 and differentiable on the open interval minus, 3, is less than, x, is less than, 3, .−3<x<3.-3 < x < 3.−3<x<3.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 3, is less than, x, is less than, 3−3<x<3-3 < x < 3−3<x<3 such that f, prime,  of, c, equals, minus, 1, .f′(c)=−1.f'(c)=-1.f′(c)=−1.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 1, is less than or equal to, x, is less than or equal to, 2−1≤x≤2-1\\le x \\le 2−1≤x≤2 and differentiable on the open interval minus, 1, is less than, x, is less than, 2, .−1<x<2.-1 < x < 2.−1<x<2.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 1, is less than, x, is less than, 2−1<x<2-1 < x < 2−1<x<2 such that f, prime,  of, c, equals, minus, 9, .f′(c)=−9.f'(c)=-9.f′(c)=−9.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 1, is less than or equal to, x, is less than or equal to, 2−1≤x≤2-1\\le x \\le 2−1≤x≤2 and differentiable on the open interval minus, 1, is less than, x, is less than, 2, .−1<x<2.-1 < x < 2.−1<x<2.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 1, is less than, x, is less than, 2−1<x<2-1 < x < 2−1<x<2 such that f, prime,  of, c, equals, minus, 9, .f′(c)=−9.f'(c)=-9.f′(c)=−9.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 0, is less than or equal to, x, is less than or equal to, 60≤x≤60\\le x \\le 60≤x≤6 and differentiable on the open interval 0, is less than, x, is less than, 6, .0<x<6.0 < x < 6.0<x<6.  Determine the validity of the following statement: There exists a value cccc in the open interval 0, is less than, x, is less than, 60<x<60 < x < 60<x<6 such that f, prime,  of, c, equals, 1, .f′(c)=1.f'(c)=1.f′(c)=1.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 0, is less than or equal to, x, is less than or equal to, 60≤x≤60\\le x \\le 60≤x≤6 and differentiable on the open interval 0, is less than, x, is less than, 6, .0<x<6.0 < x < 6.0<x<6.  Determine the validity of the following statement: There exists a value cccc in the open interval 0, is less than, x, is less than, 60<x<60 < x < 60<x<6 such that f, prime,  of, c, equals, 1, .f′(c)=1.f'(c)=1.f′(c)=1.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 2, comma, 4, close square bracket[−2,4][-2, 4][−2,4] and differentiable on the open interval left bracket, minus, 2, comma, 4, right bracket, .(−2,4).(-2, 4).(−2,4).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 2, comma, 4, right bracket(−2,4)(-2, 4)(−2,4) such that f, prime,  of, c, equals, minus, 2, .f′(c)=−2.f'(c)=-2.f′(c)=−2.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 2, comma, 4, close square bracket[−2,4][-2, 4][−2,4] and differentiable on the open interval left bracket, minus, 2, comma, 4, right bracket, .(−2,4).(-2, 4).(−2,4).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 2, comma, 4, right bracket(−2,4)(-2, 4)(−2,4) such that f, prime,  of, c, equals, minus, 2, .f′(c)=−2.f'(c)=-2.f′(c)=−2.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval left bracket, minus, 2, comma, 0, right bracket, .(−2,0).(-2, 0).(−2,0). Also, there does not exist a value cccc in the open interval left bracket, minus, 2, comma, 0, right bracket(−2,0)(-2, 0)(−2,0) such that f, prime,  of, c, equals, minus, 2, .f′(c)=−2.f'(c)=-2.f′(c)=−2. Determine the validity of the following statement: The function ffff is continuous on the closed interval open square bracket, minus, 2, comma, 0, close square bracket, .[−2,0].[-2, 0].[−2,0].",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval left bracket, minus, 2, comma, 0, right bracket, .(−2,0).(-2, 0).(−2,0). Also, there does not exist a value cccc in the open interval left bracket, minus, 2, comma, 0, right bracket(−2,0)(-2, 0)(−2,0) such that f, prime,  of, c, equals, minus, 2, .f′(c)=−2.f'(c)=-2.f′(c)=−2. Determine the validity of the following statement: The function ffff is continuous on the closed interval open square bracket, minus, 2, comma, 0, close square bracket, .[−2,0].[-2, 0].[−2,0].",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval left bracket, 3, comma, 6, right bracket, .(3,6).(3, 6).(3,6). Also, there does not exist a value cccc in the open interval left bracket, 3, comma, 6, right bracket(3,6)(3, 6)(3,6) such that f, prime,  of, c, equals, minus, start fraction, 4, divided by, 3, end fraction, .f′(c)=−43.f'(c)=-\\frac{4}{3}.f′(c)=−34​. Determine the validity of the following statement: The function ffff is continuous on the closed interval open square bracket, 3, comma, 6, close square bracket, .[3,6].[3, 6].[3,6].",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval left bracket, 3, comma, 6, right bracket, .(3,6).(3, 6).(3,6). Also, there does not exist a value cccc in the open interval left bracket, 3, comma, 6, right bracket(3,6)(3, 6)(3,6) such that f, prime,  of, c, equals, minus, start fraction, 4, divided by, 3, end fraction, .f′(c)=−43.f'(c)=-\\frac{4}{3}.f′(c)=−34​. Determine the validity of the following statement: The function ffff is continuous on the closed interval open square bracket, 3, comma, 6, close square bracket, .[3,6].[3, 6].[3,6].",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 1, is less than or equal to, x, is less than or equal to, 41≤x≤41\\le x \\le 41≤x≤4 and differentiable on the open interval 1, is less than, x, is less than, 4, .1<x<4.1 < x < 4.1<x<4.  Determine the validity of the following statement: There exists a value cccc in the open interval 1, is less than, x, is less than, 41<x<41 < x < 41<x<4 such that f, prime,  of, c, equals, minus, start fraction, 15, divided by, 2, end fraction, .f′(c)=−152.f'(c)=-\\frac{15}{2}.f′(c)=−215​.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 1, is less than or equal to, x, is less than or equal to, 41≤x≤41\\le x \\le 41≤x≤4 and differentiable on the open interval 1, is less than, x, is less than, 4, .1<x<4.1 < x < 4.1<x<4.  Determine the validity of the following statement: There exists a value cccc in the open interval 1, is less than, x, is less than, 41<x<41 < x < 41<x<4 such that f, prime,  of, c, equals, minus, start fraction, 15, divided by, 2, end fraction, .f′(c)=−152.f'(c)=-\\frac{15}{2}.f′(c)=−215​.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 1, is less than or equal to, x, is less than or equal to, 41≤x≤41\\le x \\le 41≤x≤4 and differentiable on the open interval 1, is less than, x, is less than, 4, .1<x<4.1 < x < 4.1<x<4.  Determine the validity of the following statement: There exists a value cccc in the open interval 1, is less than, x, is less than, 41<x<41 < x < 41<x<4 such that f, prime,  of, c, equals, minus, start fraction, 15, divided by, 2, end fraction, .f′(c)=−152.f'(c)=-\\frac{15}{2}.f′(c)=−215​.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 1, is less than or equal to, x, is less than or equal to, 41≤x≤41\\le x \\le 41≤x≤4 and differentiable on the open interval 1, is less than, x, is less than, 4, .1<x<4.1 < x < 4.1<x<4.  Determine the validity of the following statement: There exists a value cccc in the open interval 1, is less than, x, is less than, 41<x<41 < x < 41<x<4 such that f, prime,  of, c, equals, minus, start fraction, 15, divided by, 2, end fraction, .f′(c)=−152.f'(c)=-\\frac{15}{2}.f′(c)=−215​.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 1, is less than or equal to, x, is less than or equal to, 5, .1≤x≤5.1\\le x \\le 5.1≤x≤5. Also, there does not exist a value cccc in the open interval 1, is less than, x, is less than, 51<x<51 < x < 51<x<5 such that f, prime,  of, c, equals, 7, .f′(c)=7.f'(c)=7.f′(c)=7. Determine the validity of the following statement: The function ffff is differentiable on the open interval 1, is less than, x, is less than, 5, .1<x<5.1 < x < 5.1<x<5.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 1, is less than or equal to, x, is less than or equal to, 5, .1≤x≤5.1\\le x \\le 5.1≤x≤5. Also, there does not exist a value cccc in the open interval 1, is less than, x, is less than, 51<x<51 < x < 51<x<5 such that f, prime,  of, c, equals, 7, .f′(c)=7.f'(c)=7.f′(c)=7. Determine the validity of the following statement: The function ffff is differentiable on the open interval 1, is less than, x, is less than, 5, .1<x<5.1 < x < 5.1<x<5.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval 2, is less than, x, is less than, 4, .2<x<4.2 < x < 4.2<x<4. Also, there does not exist a value cccc in the open interval 2, is less than, x, is less than, 42<x<42 < x < 42<x<4 such that f, prime,  of, c, equals, 0, .f′(c)=0.f'(c)=0.f′(c)=0. Determine the validity of the following statement: The function ffff is continuous on the closed interval 2, is less than or equal to, x, is less than or equal to, 4, .2≤x≤4.2\\le x \\le 4.2≤x≤4.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval 2, is less than, x, is less than, 4, .2<x<4.2 < x < 4.2<x<4. Also, there does not exist a value cccc in the open interval 2, is less than, x, is less than, 42<x<42 < x < 42<x<4 such that f, prime,  of, c, equals, 0, .f′(c)=0.f'(c)=0.f′(c)=0. Determine the validity of the following statement: The function ffff is continuous on the closed interval 2, is less than or equal to, x, is less than or equal to, 4, .2≤x≤4.2\\le x \\le 4.2≤x≤4.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 1, is less than or equal to, x, is less than or equal to, 51≤x≤51\\le x \\le 51≤x≤5 and differentiable on the open interval 1, is less than, x, is less than, 5, .1<x<5.1 < x < 5.1<x<5.  Determine the validity of the following statement: There exists a value cccc in the open interval 1, is less than, x, is less than, 51<x<51 < x < 51<x<5 such that f, prime,  of, c, equals, minus, 6, .f′(c)=−6.f'(c)=-6.f′(c)=−6.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 1, is less than or equal to, x, is less than or equal to, 51≤x≤51\\le x \\le 51≤x≤5 and differentiable on the open interval 1, is less than, x, is less than, 5, .1<x<5.1 < x < 5.1<x<5.  Determine the validity of the following statement: There exists a value cccc in the open interval 1, is less than, x, is less than, 51<x<51 < x < 51<x<5 such that f, prime,  of, c, equals, minus, 6, .f′(c)=−6.f'(c)=-6.f′(c)=−6.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 0, comma, 4, close square bracket[0,4][0, 4][0,4].  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 0, comma, 4, right bracket(0,4)(0, 4)(0,4) such that f, prime,  of, c, equals, 1, .f′(c)=1.f'(c)=1.f′(c)=1.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 0, comma, 4, close square bracket[0,4][0, 4][0,4].  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 0, comma, 4, right bracket(0,4)(0, 4)(0,4) such that f, prime,  of, c, equals, 1, .f′(c)=1.f'(c)=1.f′(c)=1.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 2, comma, 0, close square bracket[−2,0][-2, 0][−2,0] and differentiable on the open interval left bracket, minus, 2, comma, 0, right bracket, .(−2,0).(-2, 0).(−2,0).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 2, comma, 0, right bracket(−2,0)(-2, 0)(−2,0) such that f, prime,  of, c, equals, 1, .f′(c)=1.f'(c)=1.f′(c)=1.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 2, comma, 0, close square bracket[−2,0][-2, 0][−2,0] and differentiable on the open interval left bracket, minus, 2, comma, 0, right bracket, .(−2,0).(-2, 0).(−2,0).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 2, comma, 0, right bracket(−2,0)(-2, 0)(−2,0) such that f, prime,  of, c, equals, 1, .f′(c)=1.f'(c)=1.f′(c)=1.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 1, comma, 4, close square bracket[1,4][1, 4][1,4] and differentiable on the open interval left bracket, 1, comma, 4, right bracket, .(1,4).(1, 4).(1,4).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 1, comma, 4, right bracket(1,4)(1, 4)(1,4) such that f, prime,  of, c, equals, minus, 6, .f′(c)=−6.f'(c)=-6.f′(c)=−6.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 1, comma, 4, close square bracket[1,4][1, 4][1,4] and differentiable on the open interval left bracket, 1, comma, 4, right bracket, .(1,4).(1, 4).(1,4).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 1, comma, 4, right bracket(1,4)(1, 4)(1,4) such that f, prime,  of, c, equals, minus, 6, .f′(c)=−6.f'(c)=-6.f′(c)=−6.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval left bracket, 3, comma, 7, right bracket, .(3,7).(3, 7).(3,7).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 3, comma, 7, right bracket(3,7)(3, 7)(3,7) such that f, prime,  of, c, equals, 2, .f′(c)=2.f'(c)=2.f′(c)=2.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval left bracket, 3, comma, 7, right bracket, .(3,7).(3, 7).(3,7).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 3, comma, 7, right bracket(3,7)(3, 7)(3,7) such that f, prime,  of, c, equals, 2, .f′(c)=2.f'(c)=2.f′(c)=2.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 2, is less than or equal to, x, is less than or equal to, 3, .−2≤x≤3.-2\\le x \\le 3.−2≤x≤3. Also, there does not exist a value cccc in the open interval minus, 2, is less than, x, is less than, 3−2<x<3-2 < x < 3−2<x<3 such that f, prime,  of, c, equals, start fraction, 37, divided by, 5, end fraction, .f′(c)=375.f'(c)=\\frac{37}{5}.f′(c)=537​. Determine the validity of the following statement: The function ffff is differentiable on the open interval minus, 2, is less than, x, is less than, 3, .−2<x<3.-2 < x < 3.−2<x<3.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 2, is less than or equal to, x, is less than or equal to, 3, .−2≤x≤3.-2\\le x \\le 3.−2≤x≤3. Also, there does not exist a value cccc in the open interval minus, 2, is less than, x, is less than, 3−2<x<3-2 < x < 3−2<x<3 such that f, prime,  of, c, equals, start fraction, 37, divided by, 5, end fraction, .f′(c)=375.f'(c)=\\frac{37}{5}.f′(c)=537​. Determine the validity of the following statement: The function ffff is differentiable on the open interval minus, 2, is less than, x, is less than, 3, .−2<x<3.-2 < x < 3.−2<x<3.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 1, comma, 5, close square bracket[1,5][1, 5][1,5] and differentiable on the open interval left bracket, 1, comma, 5, right bracket, .(1,5).(1, 5).(1,5).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 1, comma, 5, right bracket(1,5)(1, 5)(1,5) such that f, prime,  of, c, equals, minus, 7, .f′(c)=−7.f'(c)=-7.f′(c)=−7.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 1, comma, 5, close square bracket[1,5][1, 5][1,5] and differentiable on the open interval left bracket, 1, comma, 5, right bracket, .(1,5).(1, 5).(1,5).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 1, comma, 5, right bracket(1,5)(1, 5)(1,5) such that f, prime,  of, c, equals, minus, 7, .f′(c)=−7.f'(c)=-7.f′(c)=−7.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 1, comma, 5, close square bracket[1,5][1, 5][1,5] and differentiable on the open interval left bracket, 1, comma, 5, right bracket, .(1,5).(1, 5).(1,5).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 1, comma, 5, right bracket(1,5)(1, 5)(1,5) such that f, prime,  of, c, equals, minus, 4, .f′(c)=−4.f'(c)=-4.f′(c)=−4.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 1, comma, 5, close square bracket[1,5][1, 5][1,5] and differentiable on the open interval left bracket, 1, comma, 5, right bracket, .(1,5).(1, 5).(1,5).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 1, comma, 5, right bracket(1,5)(1, 5)(1,5) such that f, prime,  of, c, equals, minus, 4, .f′(c)=−4.f'(c)=-4.f′(c)=−4.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval left bracket, minus, 3, comma, 1, right bracket, .(−3,1).(-3, 1).(−3,1). Also, there does not exist a value cccc in the open interval left bracket, minus, 3, comma, 1, right bracket(−3,1)(-3, 1)(−3,1) such that f, prime,  of, c, equals, minus, 4, .f′(c)=−4.f'(c)=-4.f′(c)=−4. Determine the validity of the following statement: The function ffff is continuous on the closed interval open square bracket, minus, 3, comma, 1, close square bracket, .[−3,1].[-3, 1].[−3,1].",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval left bracket, minus, 3, comma, 1, right bracket, .(−3,1).(-3, 1).(−3,1). Also, there does not exist a value cccc in the open interval left bracket, minus, 3, comma, 1, right bracket(−3,1)(-3, 1)(−3,1) such that f, prime,  of, c, equals, minus, 4, .f′(c)=−4.f'(c)=-4.f′(c)=−4. Determine the validity of the following statement: The function ffff is continuous on the closed interval open square bracket, minus, 3, comma, 1, close square bracket, .[−3,1].[-3, 1].[−3,1].",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 2, is less than or equal to, x, is less than or equal to, 5, .2≤x≤5.2\\le x \\le 5.2≤x≤5. Also, there does not exist a value cccc in the open interval 2, is less than, x, is less than, 52<x<52 < x < 52<x<5 such that f, prime,  of, c, equals, 6, .f′(c)=6.f'(c)=6.f′(c)=6. Determine the validity of the following statement: The function ffff is differentiable on the open interval 2, is less than, x, is less than, 5, .2<x<5.2 < x < 5.2<x<5.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 2, is less than or equal to, x, is less than or equal to, 5, .2≤x≤5.2\\le x \\le 5.2≤x≤5. Also, there does not exist a value cccc in the open interval 2, is less than, x, is less than, 52<x<52 < x < 52<x<5 such that f, prime,  of, c, equals, 6, .f′(c)=6.f'(c)=6.f′(c)=6. Determine the validity of the following statement: The function ffff is differentiable on the open interval 2, is less than, x, is less than, 5, .2<x<5.2 < x < 5.2<x<5.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval minus, 2, is less than, x, is less than, 2, .−2<x<2.-2 < x < 2.−2<x<2. Also, there does not exist a value cccc in the open interval minus, 2, is less than, x, is less than, 2−2<x<2-2 < x < 2−2<x<2 such that f, prime,  of, c, equals, minus, 3, .f′(c)=−3.f'(c)=-3.f′(c)=−3. Determine the validity of the following statement: The function ffff is continuous on the closed interval minus, 2, is less than or equal to, x, is less than or equal to, 2, .−2≤x≤2.-2\\le x \\le 2.−2≤x≤2.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval minus, 2, is less than, x, is less than, 2, .−2<x<2.-2 < x < 2.−2<x<2. Also, there does not exist a value cccc in the open interval minus, 2, is less than, x, is less than, 2−2<x<2-2 < x < 2−2<x<2 such that f, prime,  of, c, equals, minus, 3, .f′(c)=−3.f'(c)=-3.f′(c)=−3. Determine the validity of the following statement: The function ffff is continuous on the closed interval minus, 2, is less than or equal to, x, is less than or equal to, 2, .−2≤x≤2.-2\\le x \\le 2.−2≤x≤2.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 1, is less than or equal to, x, is less than or equal to, 3−1≤x≤3-1\\le x \\le 3−1≤x≤3 and differentiable on the open interval minus, 1, is less than, x, is less than, 3, .−1<x<3.-1 < x < 3.−1<x<3.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 1, is less than, x, is less than, 3−1<x<3-1 < x < 3−1<x<3 such that f, prime,  of, c, equals, 3, .f′(c)=3.f'(c)=3.f′(c)=3.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 1, is less than or equal to, x, is less than or equal to, 3−1≤x≤3-1\\le x \\le 3−1≤x≤3 and differentiable on the open interval minus, 1, is less than, x, is less than, 3, .−1<x<3.-1 < x < 3.−1<x<3.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 1, is less than, x, is less than, 3−1<x<3-1 < x < 3−1<x<3 such that f, prime,  of, c, equals, 3, .f′(c)=3.f'(c)=3.f′(c)=3.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 3, is less than or equal to, x, is less than or equal to, 3−3≤x≤3-3\\le x \\le 3−3≤x≤3 and differentiable on the open interval minus, 3, is less than, x, is less than, 3, .−3<x<3.-3 < x < 3.−3<x<3.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 3, is less than, x, is less than, 3−3<x<3-3 < x < 3−3<x<3 such that f, prime,  of, c, equals, minus, 1, .f′(c)=−1.f'(c)=-1.f′(c)=−1.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 3, is less than or equal to, x, is less than or equal to, 3−3≤x≤3-3\\le x \\le 3−3≤x≤3 and differentiable on the open interval minus, 3, is less than, x, is less than, 3, .−3<x<3.-3 < x < 3.−3<x<3.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 3, is less than, x, is less than, 3−3<x<3-3 < x < 3−3<x<3 such that f, prime,  of, c, equals, minus, 1, .f′(c)=−1.f'(c)=-1.f′(c)=−1.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 1, comma, 3, close square bracket[1,3][1, 3][1,3] and differentiable on the open interval left bracket, 1, comma, 3, right bracket, .(1,3).(1, 3).(1,3).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 1, comma, 3, right bracket(1,3)(1, 3)(1,3) such that f, prime,  of, c, equals, 2, .f′(c)=2.f'(c)=2.f′(c)=2.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 1, comma, 3, close square bracket[1,3][1, 3][1,3] and differentiable on the open interval left bracket, 1, comma, 3, right bracket, .(1,3).(1, 3).(1,3).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 1, comma, 3, right bracket(1,3)(1, 3)(1,3) such that f, prime,  of, c, equals, 2, .f′(c)=2.f'(c)=2.f′(c)=2.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 1, is less than or equal to, x, is less than or equal to, 4−1≤x≤4-1\\le x \\le 4−1≤x≤4 and differentiable on the open interval minus, 1, is less than, x, is less than, 4, .−1<x<4.-1 < x < 4.−1<x<4.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 1, is less than, x, is less than, 4−1<x<4-1 < x < 4−1<x<4 such that f, prime,  of, c, equals, minus, start fraction, 8, divided by, 5, end fraction, .f′(c)=−85.f'(c)=-\\frac{8}{5}.f′(c)=−58​.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 1, is less than or equal to, x, is less than or equal to, 4−1≤x≤4-1\\le x \\le 4−1≤x≤4 and differentiable on the open interval minus, 1, is less than, x, is less than, 4, .−1<x<4.-1 < x < 4.−1<x<4.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 1, is less than, x, is less than, 4−1<x<4-1 < x < 4−1<x<4 such that f, prime,  of, c, equals, minus, start fraction, 8, divided by, 5, end fraction, .f′(c)=−85.f'(c)=-\\frac{8}{5}.f′(c)=−58​.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 2, is less than or equal to, x, is less than or equal to, 2−2≤x≤2-2\\le x \\le 2−2≤x≤2 and differentiable on the open interval minus, 2, is less than, x, is less than, 2, .−2<x<2.-2 < x < 2.−2<x<2.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 2, is less than, x, is less than, 2−2<x<2-2 < x < 2−2<x<2 such that f, prime,  of, c, equals, 0, .f′(c)=0.f'(c)=0.f′(c)=0.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 2, is less than or equal to, x, is less than or equal to, 2−2≤x≤2-2\\le x \\le 2−2≤x≤2 and differentiable on the open interval minus, 2, is less than, x, is less than, 2, .−2<x<2.-2 < x < 2.−2<x<2.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 2, is less than, x, is less than, 2−2<x<2-2 < x < 2−2<x<2 such that f, prime,  of, c, equals, 0, .f′(c)=0.f'(c)=0.f′(c)=0.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 2, comma, 2, close square bracket[−2,2][-2, 2][−2,2] and differentiable on the open interval left bracket, minus, 2, comma, 2, right bracket, .(−2,2).(-2, 2).(−2,2).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 2, comma, 2, right bracket(−2,2)(-2, 2)(−2,2) such that f, prime,  of, c, equals, start fraction, 7, divided by, 2, end fraction, .f′(c)=72.f'(c)=\\frac{7}{2}.f′(c)=27​.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 2, comma, 2, close square bracket[−2,2][-2, 2][−2,2] and differentiable on the open interval left bracket, minus, 2, comma, 2, right bracket, .(−2,2).(-2, 2).(−2,2).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 2, comma, 2, right bracket(−2,2)(-2, 2)(−2,2) such that f, prime,  of, c, equals, start fraction, 7, divided by, 2, end fraction, .f′(c)=72.f'(c)=\\frac{7}{2}.f′(c)=27​.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 1, comma, 2, close square bracket[−1,2][-1, 2][−1,2] and differentiable on the open interval left bracket, minus, 1, comma, 2, right bracket, .(−1,2).(-1, 2).(−1,2).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 1, comma, 2, right bracket(−1,2)(-1, 2)(−1,2) such that f, prime,  of, c, equals, 10, .f′(c)=10.f'(c)=10.f′(c)=10.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 1, comma, 2, close square bracket[−1,2][-1, 2][−1,2] and differentiable on the open interval left bracket, minus, 1, comma, 2, right bracket, .(−1,2).(-1, 2).(−1,2).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 1, comma, 2, right bracket(−1,2)(-1, 2)(−1,2) such that f, prime,  of, c, equals, 10, .f′(c)=10.f'(c)=10.f′(c)=10.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 1, comma, 2, close square bracket[−1,2][-1, 2][−1,2] and differentiable on the open interval left bracket, minus, 1, comma, 2, right bracket, .(−1,2).(-1, 2).(−1,2).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 1, comma, 2, right bracket(−1,2)(-1, 2)(−1,2) such that f, prime,  of, c, equals, 10, .f′(c)=10.f'(c)=10.f′(c)=10.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 1, comma, 2, close square bracket[−1,2][-1, 2][−1,2] and differentiable on the open interval left bracket, minus, 1, comma, 2, right bracket, .(−1,2).(-1, 2).(−1,2).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 1, comma, 2, right bracket(−1,2)(-1, 2)(−1,2) such that f, prime,  of, c, equals, 10, .f′(c)=10.f'(c)=10.f′(c)=10.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 3, is less than or equal to, x, is less than or equal to, 73≤x≤73\\le x \\le 73≤x≤7 and differentiable on the open interval 3, is less than, x, is less than, 7, .3<x<7.3 < x < 7.3<x<7.  Determine the validity of the following statement: There exists a value cccc in the open interval 3, is less than, x, is less than, 73<x<73 < x < 73<x<7 such that f, prime,  of, c, equals, minus, start fraction, 7, divided by, 2, end fraction, .f′(c)=−72.f'(c)=-\\frac{7}{2}.f′(c)=−27​.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 3, is less than or equal to, x, is less than or equal to, 73≤x≤73\\le x \\le 73≤x≤7 and differentiable on the open interval 3, is less than, x, is less than, 7, .3<x<7.3 < x < 7.3<x<7.  Determine the validity of the following statement: There exists a value cccc in the open interval 3, is less than, x, is less than, 73<x<73 < x < 73<x<7 such that f, prime,  of, c, equals, minus, start fraction, 7, divided by, 2, end fraction, .f′(c)=−72.f'(c)=-\\frac{7}{2}.f′(c)=−27​.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 1, is less than or equal to, x, is less than or equal to, 41≤x≤41\\le x \\le 41≤x≤4 and differentiable on the open interval 1, is less than, x, is less than, 4, .1<x<4.1 < x < 4.1<x<4.  Determine the validity of the following statement: There exists a value cccc in the open interval 1, is less than, x, is less than, 41<x<41 < x < 41<x<4 such that f, prime,  of, c, equals, minus, start fraction, 15, divided by, 2, end fraction, .f′(c)=−152.f'(c)=-\\frac{15}{2}.f′(c)=−215​.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 1, is less than or equal to, x, is less than or equal to, 41≤x≤41\\le x \\le 41≤x≤4 and differentiable on the open interval 1, is less than, x, is less than, 4, .1<x<4.1 < x < 4.1<x<4.  Determine the validity of the following statement: There exists a value cccc in the open interval 1, is less than, x, is less than, 41<x<41 < x < 41<x<4 such that f, prime,  of, c, equals, minus, start fraction, 15, divided by, 2, end fraction, .f′(c)=−152.f'(c)=-\\frac{15}{2}.f′(c)=−215​.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 2, comma, 6, close square bracket[2,6][2, 6][2,6] and differentiable on the open interval left bracket, 2, comma, 6, right bracket, .(2,6).(2, 6).(2,6).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 2, comma, 6, right bracket(2,6)(2, 6)(2,6) such that f, prime,  of, c, equals, minus, 4, .f′(c)=−4.f'(c)=-4.f′(c)=−4.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 2, comma, 6, close square bracket[2,6][2, 6][2,6] and differentiable on the open interval left bracket, 2, comma, 6, right bracket, .(2,6).(2, 6).(2,6).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 2, comma, 6, right bracket(2,6)(2, 6)(2,6) such that f, prime,  of, c, equals, minus, 4, .f′(c)=−4.f'(c)=-4.f′(c)=−4.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 3, is less than or equal to, x, is less than or equal to, 3−3≤x≤3-3\\le x \\le 3−3≤x≤3 and differentiable on the open interval minus, 3, is less than, x, is less than, 3, .−3<x<3.-3 < x < 3.−3<x<3.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 3, is less than, x, is less than, 3−3<x<3-3 < x < 3−3<x<3 such that f, prime,  of, c, equals, 1, .f′(c)=1.f'(c)=1.f′(c)=1.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 3, is less than or equal to, x, is less than or equal to, 3−3≤x≤3-3\\le x \\le 3−3≤x≤3 and differentiable on the open interval minus, 3, is less than, x, is less than, 3, .−3<x<3.-3 < x < 3.−3<x<3.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 3, is less than, x, is less than, 3−3<x<3-3 < x < 3−3<x<3 such that f, prime,  of, c, equals, 1, .f′(c)=1.f'(c)=1.f′(c)=1.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 1, is less than or equal to, x, is less than or equal to, 3−1≤x≤3-1\\le x \\le 3−1≤x≤3 and differentiable on the open interval minus, 1, is less than, x, is less than, 3, .−1<x<3.-1 < x < 3.−1<x<3.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 1, is less than, x, is less than, 3−1<x<3-1 < x < 3−1<x<3 such that f, prime,  of, c, equals, minus, 3, .f′(c)=−3.f'(c)=-3.f′(c)=−3.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 1, is less than or equal to, x, is less than or equal to, 3−1≤x≤3-1\\le x \\le 3−1≤x≤3 and differentiable on the open interval minus, 1, is less than, x, is less than, 3, .−1<x<3.-1 < x < 3.−1<x<3.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 1, is less than, x, is less than, 3−1<x<3-1 < x < 3−1<x<3 such that f, prime,  of, c, equals, minus, 3, .f′(c)=−3.f'(c)=-3.f′(c)=−3.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval 1, is less than, x, is less than, 5, .1<x<5.1 < x < 5.1<x<5. Also, there does not exist a value cccc in the open interval 1, is less than, x, is less than, 51<x<51 < x < 51<x<5 such that f, prime,  of, c, equals, minus, 4, .f′(c)=−4.f'(c)=-4.f′(c)=−4. Determine the validity of the following statement: The function ffff is continuous on the closed interval 1, is less than or equal to, x, is less than or equal to, 5, .1≤x≤5.1\\le x \\le 5.1≤x≤5.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval 1, is less than, x, is less than, 5, .1<x<5.1 < x < 5.1<x<5. Also, there does not exist a value cccc in the open interval 1, is less than, x, is less than, 51<x<51 < x < 51<x<5 such that f, prime,  of, c, equals, minus, 4, .f′(c)=−4.f'(c)=-4.f′(c)=−4. Determine the validity of the following statement: The function ffff is continuous on the closed interval 1, is less than or equal to, x, is less than or equal to, 5, .1≤x≤5.1\\le x \\le 5.1≤x≤5.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 1, comma, 2, close square bracket[−1,2][-1, 2][−1,2].  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 1, comma, 2, right bracket(−1,2)(-1, 2)(−1,2) such that f, prime,  of, c, equals, 3, .f′(c)=3.f'(c)=3.f′(c)=3.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 1, comma, 2, close square bracket[−1,2][-1, 2][−1,2].  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 1, comma, 2, right bracket(−1,2)(-1, 2)(−1,2) such that f, prime,  of, c, equals, 3, .f′(c)=3.f'(c)=3.f′(c)=3.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 2, is less than or equal to, x, is less than or equal to, 0−2≤x≤0-2\\le x \\le 0−2≤x≤0 and differentiable on the open interval minus, 2, is less than, x, is less than, 0, .−2<x<0.-2 < x < 0.−2<x<0.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 2, is less than, x, is less than, 0−2<x<0-2 < x < 0−2<x<0 such that f, prime,  of, c, equals, start fraction, 14, divided by, 3, end fraction, .f′(c)=143.f'(c)=\\frac{14}{3}.f′(c)=314​.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 2, is less than or equal to, x, is less than or equal to, 0−2≤x≤0-2\\le x \\le 0−2≤x≤0 and differentiable on the open interval minus, 2, is less than, x, is less than, 0, .−2<x<0.-2 < x < 0.−2<x<0.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 2, is less than, x, is less than, 0−2<x<0-2 < x < 0−2<x<0 such that f, prime,  of, c, equals, start fraction, 14, divided by, 3, end fraction, .f′(c)=143.f'(c)=\\frac{14}{3}.f′(c)=314​.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 2, comma, 6, close square bracket[2,6][2, 6][2,6] and differentiable on the open interval left bracket, 2, comma, 6, right bracket, .(2,6).(2, 6).(2,6).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 2, comma, 6, right bracket(2,6)(2, 6)(2,6) such that f, prime,  of, c, equals, 5, .f′(c)=5.f'(c)=5.f′(c)=5.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 2, comma, 6, close square bracket[2,6][2, 6][2,6] and differentiable on the open interval left bracket, 2, comma, 6, right bracket, .(2,6).(2, 6).(2,6).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 2, comma, 6, right bracket(2,6)(2, 6)(2,6) such that f, prime,  of, c, equals, 5, .f′(c)=5.f'(c)=5.f′(c)=5.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 1, comma, 3, close square bracket[−1,3][-1, 3][−1,3] and differentiable on the open interval left bracket, minus, 1, comma, 3, right bracket, .(−1,3).(-1, 3).(−1,3).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 1, comma, 3, right bracket(−1,3)(-1, 3)(−1,3) such that f, prime,  of, c, equals, 4, .f′(c)=4.f'(c)=4.f′(c)=4.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, minus, 1, comma, 3, close square bracket[−1,3][-1, 3][−1,3] and differentiable on the open interval left bracket, minus, 1, comma, 3, right bracket, .(−1,3).(-1, 3).(−1,3).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, minus, 1, comma, 3, right bracket(−1,3)(-1, 3)(−1,3) such that f, prime,  of, c, equals, 4, .f′(c)=4.f'(c)=4.f′(c)=4.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval left bracket, 0, comma, 6, right bracket, .(0,6).(0, 6).(0,6). Also, there does not exist a value cccc in the open interval left bracket, 0, comma, 6, right bracket(0,6)(0, 6)(0,6) such that f, prime,  of, c, equals, one half, .f′(c)=12.f'(c)=\\frac{1}{2}.f′(c)=21​. Determine the validity of the following statement: The function ffff is continuous on the closed interval open square bracket, 0, comma, 6, close square bracket, .[0,6].[0, 6].[0,6].",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval left bracket, 0, comma, 6, right bracket, .(0,6).(0, 6).(0,6). Also, there does not exist a value cccc in the open interval left bracket, 0, comma, 6, right bracket(0,6)(0, 6)(0,6) such that f, prime,  of, c, equals, one half, .f′(c)=12.f'(c)=\\frac{1}{2}.f′(c)=21​. Determine the validity of the following statement: The function ffff is continuous on the closed interval open square bracket, 0, comma, 6, close square bracket, .[0,6].[0, 6].[0,6].",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 1, is less than or equal to, x, is less than or equal to, 5, .1≤x≤5.1\\le x \\le 5.1≤x≤5. Also, there does not exist a value cccc in the open interval 1, is less than, x, is less than, 51<x<51 < x < 51<x<5 such that f, prime,  of, c, equals, 7, .f′(c)=7.f'(c)=7.f′(c)=7. Determine the validity of the following statement: The function ffff is differentiable on the open interval 1, is less than, x, is less than, 5, .1<x<5.1 < x < 5.1<x<5.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 1, is less than or equal to, x, is less than or equal to, 5, .1≤x≤5.1\\le x \\le 5.1≤x≤5. Also, there does not exist a value cccc in the open interval 1, is less than, x, is less than, 51<x<51 < x < 51<x<5 such that f, prime,  of, c, equals, 7, .f′(c)=7.f'(c)=7.f′(c)=7. Determine the validity of the following statement: The function ffff is differentiable on the open interval 1, is less than, x, is less than, 5, .1<x<5.1 < x < 5.1<x<5.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval minus, 2, is less than, x, is less than, 2, .−2<x<2.-2 < x < 2.−2<x<2.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 2, is less than, x, is less than, 2−2<x<2-2 < x < 2−2<x<2 such that f, prime,  of, c, equals, 4, .f′(c)=4.f'(c)=4.f′(c)=4.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval minus, 2, is less than, x, is less than, 2, .−2<x<2.-2 < x < 2.−2<x<2.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 2, is less than, x, is less than, 2−2<x<2-2 < x < 2−2<x<2 such that f, prime,  of, c, equals, 4, .f′(c)=4.f'(c)=4.f′(c)=4.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 3, is less than or equal to, x, is less than or equal to, 3−3≤x≤3-3\\le x \\le 3−3≤x≤3 and differentiable on the open interval minus, 3, is less than, x, is less than, 3, .−3<x<3.-3 < x < 3.−3<x<3.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 3, is less than, x, is less than, 3−3<x<3-3 < x < 3−3<x<3 such that f, prime,  of, c, equals, minus, 1, .f′(c)=−1.f'(c)=-1.f′(c)=−1.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 3, is less than or equal to, x, is less than or equal to, 3−3≤x≤3-3\\le x \\le 3−3≤x≤3 and differentiable on the open interval minus, 3, is less than, x, is less than, 3, .−3<x<3.-3 < x < 3.−3<x<3.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 3, is less than, x, is less than, 3−3<x<3-3 < x < 3−3<x<3 such that f, prime,  of, c, equals, minus, 1, .f′(c)=−1.f'(c)=-1.f′(c)=−1.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval left bracket, 1, comma, 4, right bracket, .(1,4).(1, 4).(1,4). Also, there does not exist a value cccc in the open interval left bracket, 1, comma, 4, right bracket(1,4)(1, 4)(1,4) such that f, prime,  of, c, equals, one third, .f′(c)=13.f'(c)=\\frac{1}{3}.f′(c)=31​. Determine the validity of the following statement: The function ffff is continuous on the closed interval open square bracket, 1, comma, 4, close square bracket, .[1,4].[1, 4].[1,4].",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval left bracket, 1, comma, 4, right bracket, .(1,4).(1, 4).(1,4). Also, there does not exist a value cccc in the open interval left bracket, 1, comma, 4, right bracket(1,4)(1, 4)(1,4) such that f, prime,  of, c, equals, one third, .f′(c)=13.f'(c)=\\frac{1}{3}.f′(c)=31​. Determine the validity of the following statement: The function ffff is continuous on the closed interval open square bracket, 1, comma, 4, close square bracket, .[1,4].[1, 4].[1,4].",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval 3, is less than, x, is less than, 9, .3<x<9.3 < x < 9.3<x<9.  Determine the validity of the following statement: There exists a value cccc in the open interval 3, is less than, x, is less than, 93<x<93 < x < 93<x<9 such that f, prime,  of, c, equals, start fraction, 3, divided by, 2, end fraction, .f′(c)=32.f'(c)=\\frac{3}{2}.f′(c)=23​.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval 3, is less than, x, is less than, 9, .3<x<9.3 < x < 9.3<x<9.  Determine the validity of the following statement: There exists a value cccc in the open interval 3, is less than, x, is less than, 93<x<93 < x < 93<x<9 such that f, prime,  of, c, equals, start fraction, 3, divided by, 2, end fraction, .f′(c)=32.f'(c)=\\frac{3}{2}.f′(c)=23​.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval 2, is less than, x, is less than, 5, .2<x<5.2 < x < 5.2<x<5.  Determine the validity of the following statement: There exists a value cccc in the open interval 2, is less than, x, is less than, 52<x<52 < x < 52<x<5 such that f, prime,  of, c, equals, 3, .f′(c)=3.f'(c)=3.f′(c)=3.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval 2, is less than, x, is less than, 5, .2<x<5.2 < x < 5.2<x<5.  Determine the validity of the following statement: There exists a value cccc in the open interval 2, is less than, x, is less than, 52<x<52 < x < 52<x<5 such that f, prime,  of, c, equals, 3, .f′(c)=3.f'(c)=3.f′(c)=3.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval left bracket, minus, 2, comma, 0, right bracket, .(−2,0).(-2, 0).(−2,0). Also, there does not exist a value cccc in the open interval left bracket, minus, 2, comma, 0, right bracket(−2,0)(-2, 0)(−2,0) such that f, prime,  of, c, equals, minus, 2, .f′(c)=−2.f'(c)=-2.f′(c)=−2. Determine the validity of the following statement: The function ffff is continuous on the closed interval open square bracket, minus, 2, comma, 0, close square bracket, .[−2,0].[-2, 0].[−2,0].",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is differentiable on the open interval left bracket, minus, 2, comma, 0, right bracket, .(−2,0).(-2, 0).(−2,0). Also, there does not exist a value cccc in the open interval left bracket, minus, 2, comma, 0, right bracket(−2,0)(-2, 0)(−2,0) such that f, prime,  of, c, equals, minus, 2, .f′(c)=−2.f'(c)=-2.f′(c)=−2. Determine the validity of the following statement: The function ffff is continuous on the closed interval open square bracket, minus, 2, comma, 0, close square bracket, .[−2,0].[-2, 0].[−2,0].",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 1, comma, 4, close square bracket[1,4][1, 4][1,4] and differentiable on the open interval left bracket, 1, comma, 4, right bracket, .(1,4).(1, 4).(1,4).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 1, comma, 4, right bracket(1,4)(1, 4)(1,4) such that f, prime,  of, c, equals, 3, .f′(c)=3.f'(c)=3.f′(c)=3.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval open square bracket, 1, comma, 4, close square bracket[1,4][1, 4][1,4] and differentiable on the open interval left bracket, 1, comma, 4, right bracket, .(1,4).(1, 4).(1,4).  Determine the validity of the following statement: There exists a value cccc in the open interval left bracket, 1, comma, 4, right bracket(1,4)(1, 4)(1,4) such that f, prime,  of, c, equals, 3, .f′(c)=3.f'(c)=3.f′(c)=3.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 3, is less than or equal to, x, is less than or equal to, 7, .3≤x≤7.3\\le x \\le 7.3≤x≤7. Also, there does not exist a value cccc in the open interval 3, is less than, x, is less than, 73<x<73 < x < 73<x<7 such that f, prime,  of, c, equals, minus, start fraction, 5, divided by, 4, end fraction, .f′(c)=−54.f'(c)=-\\frac{5}{4}.f′(c)=−45​. Determine the validity of the following statement: The function ffff is differentiable on the open interval 3, is less than, x, is less than, 7, .3<x<7.3 < x < 7.3<x<7.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 3, is less than or equal to, x, is less than or equal to, 7, .3≤x≤7.3\\le x \\le 7.3≤x≤7. Also, there does not exist a value cccc in the open interval 3, is less than, x, is less than, 73<x<73 < x < 73<x<7 such that f, prime,  of, c, equals, minus, start fraction, 5, divided by, 4, end fraction, .f′(c)=−54.f'(c)=-\\frac{5}{4}.f′(c)=−45​. Determine the validity of the following statement: The function ffff is differentiable on the open interval 3, is less than, x, is less than, 7, .3<x<7.3 < x < 7.3<x<7.",
+    "the statement could be either true or false\\text{\\text{the statement could be either true or false}}the statement could be either true or false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 2, is less than or equal to, x, is less than or equal to, 0−2≤x≤0-2\\le x \\le 0−2≤x≤0 and differentiable on the open interval minus, 2, is less than, x, is less than, 0, .−2<x<0.-2 < x < 0.−2<x<0.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 2, is less than, x, is less than, 0−2<x<0-2 < x < 0−2<x<0 such that f, prime,  of, c, equals, start fraction, 14, divided by, 3, end fraction, .f′(c)=143.f'(c)=\\frac{14}{3}.f′(c)=314​.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 2, is less than or equal to, x, is less than or equal to, 0−2≤x≤0-2\\le x \\le 0−2≤x≤0 and differentiable on the open interval minus, 2, is less than, x, is less than, 0, .−2<x<0.-2 < x < 0.−2<x<0.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 2, is less than, x, is less than, 0−2<x<0-2 < x < 0−2<x<0 such that f, prime,  of, c, equals, start fraction, 14, divided by, 3, end fraction, .f′(c)=143.f'(c)=\\frac{14}{3}.f′(c)=314​.",
+    "the statement must be false\\text{\\text{the statement must be false}}the statement must be false"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 0, is less than or equal to, x, is less than or equal to, 60≤x≤60\\le x \\le 60≤x≤6 and differentiable on the open interval 0, is less than, x, is less than, 6, .0<x<6.0 < x < 6.0<x<6.  Determine the validity of the following statement: There exists a value cccc in the open interval 0, is less than, x, is less than, 60<x<60 < x < 60<x<6 such that f, prime,  of, c, equals, start fraction, 7, divided by, 2, end fraction, .f′(c)=72.f'(c)=\\frac{7}{2}.f′(c)=27​.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval 0, is less than or equal to, x, is less than or equal to, 60≤x≤60\\le x \\le 60≤x≤6 and differentiable on the open interval 0, is less than, x, is less than, 6, .0<x<6.0 < x < 6.0<x<6.  Determine the validity of the following statement: There exists a value cccc in the open interval 0, is less than, x, is less than, 60<x<60 < x < 60<x<6 such that f, prime,  of, c, equals, start fraction, 7, divided by, 2, end fraction, .f′(c)=72.f'(c)=\\frac{7}{2}.f′(c)=27​.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 1, is less than or equal to, x, is less than or equal to, 2−1≤x≤2-1\\le x \\le 2−1≤x≤2 and differentiable on the open interval minus, 1, is less than, x, is less than, 2, .−1<x<2.-1 < x < 2.−1<x<2.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 1, is less than, x, is less than, 2−1<x<2-1 < x < 2−1<x<2 such that f, prime,  of, c, equals, 1, .f′(c)=1.f'(c)=1.f′(c)=1.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ],
+  [
+    "Selected values of the function ffff are shown in the table below. The function ffff is continuous on the closed interval minus, 1, is less than or equal to, x, is less than or equal to, 2−1≤x≤2-1\\le x \\le 2−1≤x≤2 and differentiable on the open interval minus, 1, is less than, x, is less than, 2, .−1<x<2.-1 < x < 2.−1<x<2.  Determine the validity of the following statement: There exists a value cccc in the open interval minus, 1, is less than, x, is less than, 2−1<x<2-1 < x < 2−1<x<2 such that f, prime,  of, c, equals, 1, .f′(c)=1.f'(c)=1.f′(c)=1.",
+    "the statement must be true\\text{\\text{the statement must be true}}the statement must be true"
+  ]
+]
